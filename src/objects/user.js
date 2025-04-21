@@ -4,8 +4,8 @@ const { generateRandomString } = require("../util/rnd");
 
 module.exports = () => {
   return {
-    ...createBubbleObject(),
     email: `demo+${generateRandomString(8)}@skillquest.io`,
+    password: generateRandomString(12),
     firstName: getRandomFirstName(),
     lastName: getRandomLastName(),
   };
