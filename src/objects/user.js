@@ -4,7 +4,7 @@ const { generateRandomString } = require("../util/rnd");
 
 module.exports = () => {
   return {
-    email: `demo+${generateRandomString(8)}@skillquest.io`,
+    email: `demo+${generateRandomString(8)}@example.com`,
     password: generateRandomString(12),
     FirstName: getRandomFirstName(),
     LastName: getRandomLastName(),

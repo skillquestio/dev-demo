@@ -9,7 +9,7 @@ const login = async (email, password) => {
     password,
   });
 
-  return data;
+  return data.response;
 };
 
 const handleAxiosError = (error) => {
