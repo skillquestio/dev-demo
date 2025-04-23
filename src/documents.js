@@ -2,27 +2,9 @@ const fs = require("fs");
 require("dotenv").config();
 
 const { get, post } = require("./services/bubble");
+const { omitFields, batchPromises } = require("./util/requests");
 
 const bubbleKey = process.env.BUBBLE_API_KEY;
-
-const omitFields = (obj, fields) => {
-  return Object.keys(obj).reduce((result, key) => {
-    if (!fields.includes(key)) {
-      result[key] = obj[key];
-    }
-    return result;
-  }, {});
-};
-
-const batchPromises = async (items, batchSize, fn) => {
-  const results = [];
-  for (let i = 0; i < items.length; i += batchSize) {
-    const batch = items.slice(i, i + batchSize);
-    const batchResults = await Promise.all(batch.map(fn));
-    results.push(...batchResults);
-  }
-  return results;
-};
 
 const run = async () => {
   let [courses, sections, lessons] = ["Courses", "Sections", "Lessons"].map(

@@ -6,7 +6,7 @@ module.exports = () => {
   return {
     email: `demo+${generateRandomString(8)}@skillquest.io`,
     password: generateRandomString(12),
-    firstName: getRandomFirstName(),
-    lastName: getRandomLastName(),
+    FirstName: getRandomFirstName(),
+    LastName: getRandomLastName(),
   };
 };
