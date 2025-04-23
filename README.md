@@ -2,6 +2,32 @@
 
 This project is designed to show off your Bubble.io talents for a potential role as an application developer at Skillquest, where we teach technical skills using video games. The intent of the project was covered in the job post, and the setup and requirements are covered here.
 
+## Requirements
+
+Using the blank application with dummy data provided to you by Skillquest and your skills as a Bubble.io developer, create two front-end pages:
+
+1. A search interface page which generates a list of users for which data will be displayed
+
+- Allows a user to search for users by:
+  - Which courses they have started (they have at least one LessonViewHistory)
+  - User's email
+  - User's total watch time
+- Saves the search parameters to the url so that a link can be generated to to search criteria
+- Contains a button to view the data for the selected users
+
+2. A metrics dashboard that allows the viewing of the data for the filters selected on page 1
+
+- Displays aggregate data for:
+  - Number of courses contained in the query
+  - Number of lessons viewed
+  - Number of unique users in the data
+  - Average completion percentage of the course
+- Allows for .csv download of the user data which includes unique records for each user/course:
+  - User email
+  - Course
+  - Total watch time
+- Includes any further information or views that you think will set your project apart amongst the other participants in this project
+
 ## Demo App Setup
 
 First, we will set up the Bubble application. It will come with data types and demo data, which you may also expand upon using our demo data scripts if you see fit.
@@ -19,7 +45,7 @@ To set up the Bubble application:
 
 ## Data Reset
 
-If you find yourself needing to reset the data within your application, or needing to generate new data, you can use the scripts within this repository to manage and generate new data. First, you need to make sure your Bubble app's Data API is enabled. Follow the steps below to manage your demo data:
+While your Bubble app comes with demo data, if you find yourself needing to reset the data within your application, or needing to generate new data, you can use the scripts within this repository to manage and generate new data. First, you need to make sure your Bubble app's Data API is enabled. Follow the steps below to manage your demo data:
 
 1. On the "API" tab in your Bubble app's settings, ensure the checkbox "Enable Data API" if it is not already checked, and ensure that the boxes are checked for each data type
 2. Record the "Data API Root URL" (you will need it for a future step)
@@ -42,6 +68,6 @@ You can now:
 
 - Generate new users with `npm run generate-users`
 - Create new Lessons, Sections, and Courses with `npm run generate-documents`
-- Create new LessonViewHistory documents, which are used to track users' lesson interactions with `npm run generate-views`
+- Delete/clear any collection of data using the bulk backend workflows within the Bubble application data interface
 
-Note that users and documents are required in order for the `generate-views` script to run properly. If you wish to generate new courses, sections, and lessons for your demo, you can modify the seed data in the `./data` directory.
+Note that `users` are required in order for the `generate-documents` script to run properly. The process is designed so that you generate the courses/sections/lessons/views a single time after generating the users.
