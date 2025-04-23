@@ -1,0 +1,3022 @@
+[
+  {
+    "Title": "Accounts",
+    "VideoLengthSeconds": 21,
+    "UniqueId": "1651852529034x401775925588394000"
+  },
+  {
+    "Title": "Make a Discord server",
+    "VideoLengthSeconds": 45,
+    "UniqueId": "1651853231909x626624242310447100"
+  },
+  {
+    "Title": "Get the code",
+    "VideoLengthSeconds": 62,
+    "UniqueId": "1651853281353x976921270311977000"
+  },
+  {
+    "Title": "Where you write code",
+    "VideoLengthSeconds": 57,
+    "UniqueId": "1651853370691x622356254175002600"
+  },
+  {
+    "Title": "Get bot's secret token",
+    "VideoLengthSeconds": 154,
+    "UniqueId": "1651854401659x625405269586214900"
+  },
+  {
+    "Title": "Give token to bot",
+    "VideoLengthSeconds": 67,
+    "UniqueId": "1651854464099x294373163820908540"
+  },
+  {
+    "Title": "Get the bot in your Discord server",
+    "VideoLengthSeconds": 116,
+    "UniqueId": "1651854533047x749388353699840000"
+  },
+  {
+    "Title": "Run your bot",
+    "VideoLengthSeconds": 70,
+    "UniqueId": "1651854880037x189420525827129340"
+  },
+  {
+    "Title": "Make your first code change",
+    "VideoLengthSeconds": 153,
+    "UniqueId": "1651855374422x968414217650831400"
+  },
+  {
+    "Title": "Use Discord's Message data",
+    "VideoLengthSeconds": 183,
+    "UniqueId": "1651855473201x709028445172793300"
+  },
+  {
+    "Title": "Make your bot react to messages",
+    "VideoLengthSeconds": 84,
+    "UniqueId": "1651855613278x834241426691719200"
+  },
+  {
+    "Title": "React to \"VOTE\" messages",
+    "VideoLengthSeconds": 244,
+    "UniqueId": "1651855789655x491753203921846300"
+  },
+  {
+    "Title": "Add new skills to bot",
+    "VideoLengthSeconds": 76,
+    "UniqueId": "1651855932746x211229323008933900"
+  },
+  {
+    "Title": "Keep your bot online",
+    "VideoLengthSeconds": 64,
+    "UniqueId": "1651856007369x337620315487076350"
+  },
+  {
+    "Title": "Share your code for feedback",
+    "VideoLengthSeconds": 46,
+    "UniqueId": "1651856081171x494795824736763900"
+  },
+  {
+    "Title": "How to locate errors",
+    "VideoLengthSeconds": 226,
+    "UniqueId": "1651856178999x650136197576261600"
+  },
+  {
+    "Title": "Using the docs",
+    "VideoLengthSeconds": 382,
+    "UniqueId": "1651856271679x319571404333252600"
+  },
+  {
+    "Title": "Create Your Wix Account",
+    "VideoLengthSeconds": 46,
+    "UniqueId": "1651872975503x814414111552831500"
+  },
+  {
+    "Title": "Select a Template",
+    "VideoLengthSeconds": 156,
+    "UniqueId": "1651873121623x420898447269298200"
+  },
+  {
+    "Title": "Edit Your Template",
+    "VideoLengthSeconds": 140,
+    "UniqueId": "1651873193080x661808765661610000"
+  },
+  {
+    "Title": "Change Your Background Video",
+    "VideoLengthSeconds": 150,
+    "UniqueId": "1651874004058x320958355938476000"
+  },
+  {
+    "Title": "Save Your Website Progress",
+    "VideoLengthSeconds": 65,
+    "UniqueId": "1651874053102x401032054750576640"
+  },
+  {
+    "Title": "Add your Social Icons",
+    "VideoLengthSeconds": 254,
+    "UniqueId": "1651874127446x462734477007257600"
+  },
+  {
+    "Title": "Remove Default Template Content",
+    "VideoLengthSeconds": 107,
+    "UniqueId": "1651874192469x887782411255152600"
+  },
+  {
+    "Title": "Add Your Clips",
+    "VideoLengthSeconds": 294,
+    "UniqueId": "1651874264527x915098110470127600"
+  },
+  {
+    "Title": "Update The Website Footer",
+    "VideoLengthSeconds": 153,
+    "UniqueId": "1651874324847x797552699064188900"
+  },
+  {
+    "Title": "Create Anchor Links and Customize the Navigation Bar",
+    "VideoLengthSeconds": 206,
+    "UniqueId": "1651874389423x685689154554822700"
+  },
+  {
+    "Title": "Launch Your Clips Site",
+    "VideoLengthSeconds": 84,
+    "UniqueId": "1651874467020x652570704173072400"
+  },
+  {
+    "Title": "Test",
+    "VideoLengthSeconds": 5,
+    "UniqueId": "1652387951958x103553469461299200"
+  },
+  {
+    "Title": "test",
+    "VideoLengthSeconds": 8,
+    "UniqueId": "1652388067786x619277194344529900"
+  },
+  {
+    "Title": "Downloading Visual Studio Code",
+    "VideoLengthSeconds": 55,
+    "UniqueId": "1652795647768x236686996345454600"
+  },
+  {
+    "Title": "Cloning the Server Files",
+    "VideoLengthSeconds": 69,
+    "UniqueId": "1652795854447x601740848577118200"
+  },
+  {
+    "Title": "Install the Server",
+    "VideoLengthSeconds": 199,
+    "UniqueId": "1652796049962x101348940909117440"
+  },
+  {
+    "Title": "Starting the Server",
+    "VideoLengthSeconds": 75,
+    "UniqueId": "1652796280988x393344563885637600"
+  },
+  {
+    "Title": "Configure the Server Properties",
+    "VideoLengthSeconds": 80,
+    "UniqueId": "1652796512370x307905472039747600"
+  },
+  {
+    "Title": "Spigot and Bukkit Configuration",
+    "VideoLengthSeconds": 130,
+    "UniqueId": "1652796724903x309977992228241400"
+  },
+  {
+    "Title": "Accessing your Router Settings",
+    "VideoLengthSeconds": 303,
+    "UniqueId": "1652797019186x577802504293580800"
+  },
+  {
+    "Title": "Checking the Port Status",
+    "VideoLengthSeconds": 45,
+    "UniqueId": "1652798516358x194744379379023870"
+  },
+  {
+    "Title": "Firewall Settings",
+    "VideoLengthSeconds": 103,
+    "UniqueId": "1652798664364x744056472937431000"
+  },
+  {
+    "Title": "Connecting to your Server",
+    "VideoLengthSeconds": 192,
+    "UniqueId": "1652798963725x236180081189322750"
+  },
+  {
+    "Title": "Installing PlugmanX",
+    "VideoLengthSeconds": 115,
+    "UniqueId": "1652804733031x522344478093869060"
+  },
+  {
+    "Title": "Getting the Code",
+    "VideoLengthSeconds": 127,
+    "UniqueId": "1652805078876x549872822646210560"
+  },
+  {
+    "Title": "Installing the Tools",
+    "VideoLengthSeconds": 181,
+    "UniqueId": "1652805325231x759101885715578900"
+  },
+  {
+    "Title": "Setting up Intellisense",
+    "VideoLengthSeconds": 217,
+    "UniqueId": "1652805546978x456818545415946240"
+  },
+  {
+    "Title": "Exporting your First Build",
+    "VideoLengthSeconds": 188,
+    "UniqueId": "1652805949218x696756415244533800"
+  },
+  {
+    "Title": "Greeting your Players",
+    "VideoLengthSeconds": 231,
+    "UniqueId": "1652806266916x876324736235208700"
+  },
+  {
+    "Title": "Updating the Tablist",
+    "VideoLengthSeconds": 192,
+    "UniqueId": "1652806753406x602292284712026100"
+  },
+  {
+    "Title": "Updating the Server List Details",
+    "VideoLengthSeconds": 119,
+    "UniqueId": "1652807253899x471236526449623000"
+  },
+  {
+    "Title": "Initializing the Sidebar",
+    "VideoLengthSeconds": 144,
+    "UniqueId": "1652807449576x716658324410204200"
+  },
+  {
+    "Title": "Populating the Sidebar",
+    "VideoLengthSeconds": 227,
+    "UniqueId": "1652807806801x349864892010070000"
+  },
+  {
+    "Title": "Creating the Command Handler",
+    "VideoLengthSeconds": 207,
+    "UniqueId": "1652808225027x979881253812830200"
+  },
+  {
+    "Title": "Initializing the Inventory",
+    "VideoLengthSeconds": 226,
+    "UniqueId": "1652808722598x825386191377662000"
+  },
+  {
+    "Title": "Populating the Inventory",
+    "VideoLengthSeconds": 305,
+    "UniqueId": "1652809210957x243039334262374400"
+  },
+  {
+    "Title": "Adding a Lore",
+    "VideoLengthSeconds": 170,
+    "UniqueId": "1652809716562x852234888666153000"
+  },
+  {
+    "Title": "Adding Statistics",
+    "VideoLengthSeconds": 173,
+    "UniqueId": "1652810044817x351758824024047600"
+  },
+  {
+    "Title": "Creating a Wand",
+    "VideoLengthSeconds": 236,
+    "UniqueId": "1652810446660x427571681181040640"
+  },
+  {
+    "Title": "Creating the Command Handler",
+    "VideoLengthSeconds": 119,
+    "UniqueId": "1652810913955x690483086539096000"
+  },
+  {
+    "Title": "Creating the Event Handler",
+    "VideoLengthSeconds": 227,
+    "UniqueId": "1652811250126x197769408467959800"
+  },
+  {
+    "Title": "Registering /giveitem",
+    "VideoLengthSeconds": 89,
+    "UniqueId": "1652811771463x944290057730130000"
+  },
+  {
+    "Title": "Testing the Wand",
+    "VideoLengthSeconds": 187,
+    "UniqueId": "1652812031496x826986018458042400"
+  },
+  {
+    "Title": "Creating the Meteor Class",
+    "VideoLengthSeconds": 355,
+    "UniqueId": "1653407804655x140629470542037000"
+  },
+  {
+    "Title": "Spawning the Core",
+    "VideoLengthSeconds": 198,
+    "UniqueId": "1653408472765x283593200355508220"
+  },
+  {
+    "Title": "Spawning the Shell",
+    "VideoLengthSeconds": 217,
+    "UniqueId": "1653409078082x196710319892725760"
+  },
+  {
+    "Title": "Correcting the Velocity",
+    "VideoLengthSeconds": 179,
+    "UniqueId": "1653409427112x141335537265147900"
+  },
+  {
+    "Title": "Checking for Collision",
+    "VideoLengthSeconds": 227,
+    "UniqueId": "1653409899224x683045163052564500"
+  },
+  {
+    "Title": "Calculating the Explosion Vectors",
+    "VideoLengthSeconds": 228,
+    "UniqueId": "1653410268585x503140060615671800"
+  },
+  {
+    "Title": "Making the Blocks Fly",
+    "VideoLengthSeconds": 253,
+    "UniqueId": "1653410860900x994370831230435300"
+  },
+  {
+    "Title": "Creating the Crater",
+    "VideoLengthSeconds": 244,
+    "UniqueId": "1653411241413x676596129523826700"
+  },
+  {
+    "Title": "Creating the Command Handler",
+    "VideoLengthSeconds": 218,
+    "UniqueId": "1653411553176x645465214830772200"
+  },
+  {
+    "Title": "Testing the Meteor",
+    "VideoLengthSeconds": 107,
+    "UniqueId": "1653412095038x949897455395143700"
+  },
+  {
+    "Title": "Fixing the Meteor",
+    "VideoLengthSeconds": 309,
+    "UniqueId": "1653412324302x847138659794944000"
+  },
+  {
+    "Title": "Adding Ores",
+    "VideoLengthSeconds": 132,
+    "UniqueId": "1653412596918x970260160734036000"
+  },
+  {
+    "Title": "Installing the Dependencies",
+    "VideoLengthSeconds": 315,
+    "UniqueId": "1655481548159x266166138483507200"
+  },
+  {
+    "Title": "Installing the Server Plugins",
+    "VideoLengthSeconds": 189,
+    "UniqueId": "1655481872507x320546995972866050"
+  },
+  {
+    "Title": "Setting up the Project",
+    "VideoLengthSeconds": 355,
+    "UniqueId": "1655496708992x292887870437589000"
+  },
+  {
+    "Title": "Loading and Unloading",
+    "VideoLengthSeconds": 176,
+    "UniqueId": "1655497421692x199803208539045900"
+  },
+  {
+    "Title": "Generating a World",
+    "VideoLengthSeconds": 367,
+    "UniqueId": "1655497695184x602921189035999200"
+  },
+  {
+    "Title": "Basic Setup Commands",
+    "VideoLengthSeconds": 140,
+    "UniqueId": "1655497997707x434420052678934500"
+  },
+  {
+    "Title": "Updating Minigame Information",
+    "VideoLengthSeconds": 211,
+    "UniqueId": "1655498891466x369408568589549600"
+  },
+  {
+    "Title": "Minigame.java Overview",
+    "VideoLengthSeconds": 448,
+    "UniqueId": "1655499271524x614224923140554800"
+  },
+  {
+    "Title": "Events",
+    "VideoLengthSeconds": 404,
+    "UniqueId": "1655499546409x573951276058673150"
+  },
+  {
+    "Title": "Zipping your World",
+    "VideoLengthSeconds": 244,
+    "UniqueId": "1655499668521x429905573845139460"
+  },
+  {
+    "Title": "Expanding the Setup",
+    "VideoLengthSeconds": 406,
+    "UniqueId": "1655591538232x262215055757541380"
+  },
+  {
+    "Title": "What we're building",
+    "VideoLengthSeconds": 79,
+    "UniqueId": "1656603343805x719724663559946200"
+  },
+  {
+    "Title": "Adding new feature file",
+    "VideoLengthSeconds": 128,
+    "UniqueId": "1656603410891x966483862923509800"
+  },
+  {
+    "Title": "Enable voice channel control",
+    "VideoLengthSeconds": 170,
+    "UniqueId": "1656604562683x450434565883822100"
+  },
+  {
+    "Title": "Hooking the voice state update",
+    "VideoLengthSeconds": 180,
+    "UniqueId": "1656604959863x534219278477688800"
+  },
+  {
+    "Title": "Create your Bubble application",
+    "VideoLengthSeconds": 145,
+    "UniqueId": "1658099392579x879480744160788500"
+  },
+  {
+    "Title": "Using the Bubble Designer",
+    "VideoLengthSeconds": 231,
+    "UniqueId": "1658099562456x297692305064198140"
+  },
+  {
+    "Title": "Modifying styles",
+    "VideoLengthSeconds": 275,
+    "UniqueId": "1658099692184x490783458506047500"
+  },
+  {
+    "Title": "Creating Datatypes",
+    "VideoLengthSeconds": 273,
+    "UniqueId": "1658099857584x304048828481273860"
+  },
+  {
+    "Title": "Viewing existing data",
+    "VideoLengthSeconds": 228,
+    "UniqueId": "1658100486291x248083984975659000"
+  },
+  {
+    "Title": "Adding Bubble Plugins",
+    "VideoLengthSeconds": 139,
+    "UniqueId": "1658100748299x724301941308915700"
+  },
+  {
+    "Title": "Adding an API",
+    "VideoLengthSeconds": 200,
+    "UniqueId": "1658101004838x976019123788316700"
+  },
+  {
+    "Title": "Using an API",
+    "VideoLengthSeconds": 223,
+    "UniqueId": "1658101193150x567827227627487200"
+  },
+  {
+    "Title": "Deploying to Live",
+    "VideoLengthSeconds": 194,
+    "UniqueId": "1658101413107x345706194722357250"
+  },
+  {
+    "Title": "Configuring DNS",
+    "VideoLengthSeconds": 254,
+    "UniqueId": "1658101574140x647752073614983200"
+  },
+  {
+    "Title": "Creating a new page",
+    "VideoLengthSeconds": 276,
+    "UniqueId": "1658102060383x490951658798317600"
+  },
+  {
+    "Title": "Populating the new page",
+    "VideoLengthSeconds": 252,
+    "UniqueId": "1658102265614x310546259624591360"
+  },
+  {
+    "Title": "Modifying the Header",
+    "VideoLengthSeconds": 394,
+    "UniqueId": "1658102387333x768445589129527300"
+  },
+  {
+    "Title": "Modifying the Footer",
+    "VideoLengthSeconds": 287,
+    "UniqueId": "1658102601155x700665640270954500"
+  },
+  {
+    "Title": "Adding page-specific datatypes",
+    "VideoLengthSeconds": 418,
+    "UniqueId": "1658103116512x395631541928853500"
+  },
+  {
+    "Title": "Edit page overview",
+    "VideoLengthSeconds": 196,
+    "UniqueId": "1658114450468x529196182775791600"
+  },
+  {
+    "Title": "Filling in Edit Project popup",
+    "VideoLengthSeconds": 490,
+    "UniqueId": "1658114537426x622618270897274900"
+  },
+  {
+    "Title": "Using RepeatingGroups",
+    "VideoLengthSeconds": 290,
+    "UniqueId": "1658114736459x706248206419492900"
+  },
+  {
+    "Title": "Creating new \"Things",
+    "VideoLengthSeconds": 335,
+    "UniqueId": "1658114926449x497450181449220100"
+  },
+  {
+    "Title": "Set up the Bubble App Connector",
+    "VideoLengthSeconds": 256,
+    "UniqueId": "1658115153945x152539559902576640"
+  },
+  {
+    "Title": "Login and Data Retrieval",
+    "VideoLengthSeconds": 281,
+    "UniqueId": "1658115467849x756228663785029600"
+  },
+  {
+    "Title": "Closing Remarks",
+    "VideoLengthSeconds": 209,
+    "UniqueId": "1658116085622x875274269521084400"
+  },
+  {
+    "Title": "Handle connects and disconnects",
+    "VideoLengthSeconds": 555,
+    "UniqueId": "1658158639336x577094338766438400"
+  },
+  {
+    "Title": "Cloning a voice channel",
+    "VideoLengthSeconds": 235,
+    "UniqueId": "1658159812047x568712336923689000"
+  },
+  {
+    "Title": "The Plan",
+    "VideoLengthSeconds": 89,
+    "UniqueId": "1658160353477x391370943216484350"
+  },
+  {
+    "Title": "Create new channels with custom names",
+    "VideoLengthSeconds": 142,
+    "UniqueId": "1658160562137x412738271447875600"
+  },
+  {
+    "Title": "Use channel name to store data",
+    "VideoLengthSeconds": 151,
+    "UniqueId": "1658160844669x791899026811256800"
+  },
+  {
+    "Title": "Delete the right channels",
+    "VideoLengthSeconds": 211,
+    "UniqueId": "1658161076249x807256507956068400"
+  },
+  {
+    "Title": "Detect & delete empty channels",
+    "VideoLengthSeconds": 312,
+    "UniqueId": "1658161373578x155382493267361800"
+  },
+  {
+    "Title": "Testing - IMPORTANT!",
+    "VideoLengthSeconds": 213,
+    "UniqueId": "1658161765588x483826760372191200"
+  },
+  {
+    "Title": "Save new channel to variable",
+    "VideoLengthSeconds": 329,
+    "UniqueId": "1658164691594x312327113475883000"
+  },
+  {
+    "Title": "Move user to new channel",
+    "VideoLengthSeconds": 274,
+    "UniqueId": "1658165313088x535167397676974100"
+  },
+  {
+    "Title": "Remove a CRITICAL potential bug",
+    "VideoLengthSeconds": 459,
+    "UniqueId": "1658165711607x976595929677955100"
+  },
+  {
+    "Title": "Create unique names for new channels",
+    "VideoLengthSeconds": 580,
+    "UniqueId": "1658165913516x864620615310508000"
+  },
+  {
+    "Title": "Voice state logic fix",
+    "VideoLengthSeconds": 755,
+    "UniqueId": "1658166224281x230198249978593280"
+  },
+  {
+    "Title": "Creating Variables",
+    "VideoLengthSeconds": 77,
+    "UniqueId": "1659286778702x762252624898031600"
+  },
+  {
+    "Title": "Logging and Showing Variables",
+    "VideoLengthSeconds": 100,
+    "UniqueId": "1659291688268x772460763670904800"
+  },
+  {
+    "Title": "Numbers",
+    "VideoLengthSeconds": 193,
+    "UniqueId": "1659291715083x793010593726988300"
+  },
+  {
+    "Title": "Text (Strings)",
+    "VideoLengthSeconds": 154,
+    "UniqueId": "1659291744894x166522705655889920"
+  },
+  {
+    "Title": "True and False (Booleans)",
+    "VideoLengthSeconds": 126,
+    "UniqueId": "1659291780062x790143473557962800"
+  },
+  {
+    "Title": "Constants",
+    "VideoLengthSeconds": 198,
+    "UniqueId": "1659291820612x664106302566563800"
+  },
+  {
+    "Title": "Undefined",
+    "VideoLengthSeconds": 233,
+    "UniqueId": "1659291845480x444223652909547500"
+  },
+  {
+    "Title": "Intro to Objects",
+    "VideoLengthSeconds": 61,
+    "UniqueId": "1659291907593x281052153055805440"
+  },
+  {
+    "Title": "Creating Objects",
+    "VideoLengthSeconds": 246,
+    "UniqueId": "1659291929602x574224353375027200"
+  },
+  {
+    "Title": "Using and Updating Objects",
+    "VideoLengthSeconds": 151,
+    "UniqueId": "1659291960458x774477494679240700"
+  },
+  {
+    "Title": "Intro to Arrays (Lists of Data)",
+    "VideoLengthSeconds": 37,
+    "UniqueId": "1659292010405x486449919396151300"
+  },
+  {
+    "Title": "Building Arrays",
+    "VideoLengthSeconds": 150,
+    "UniqueId": "1659292027363x948299911093813200"
+  },
+  {
+    "Title": "Getting Data Out",
+    "VideoLengthSeconds": 122,
+    "UniqueId": "1659292051082x784608201605906400"
+  },
+  {
+    "Title": "Getting Data Out of Arrays",
+    "VideoLengthSeconds": 265,
+    "UniqueId": "1659292099526x745897153010860000"
+  },
+  {
+    "Title": "Slice (Cutting Data Out)",
+    "VideoLengthSeconds": 203,
+    "UniqueId": "1659292149187x448315160505876500"
+  },
+  {
+    "Title": "Splice (Adding Data in the Middle)",
+    "VideoLengthSeconds": 270,
+    "UniqueId": "1659292181301x853776260004315100"
+  },
+  {
+    "Title": "Intro to Logic",
+    "VideoLengthSeconds": 59,
+    "UniqueId": "1659292347467x952741844003848200"
+  },
+  {
+    "Title": "If and Else (Conditionally Running Code)",
+    "VideoLengthSeconds": 93,
+    "UniqueId": "1659292371179x934962957036290000"
+  },
+  {
+    "Title": "Comparing Values",
+    "VideoLengthSeconds": 246,
+    "UniqueId": "1659292390559x700828284338044900"
+  },
+  {
+    "Title": "Else If",
+    "VideoLengthSeconds": 74,
+    "UniqueId": "1659292412489x759557752907628500"
+  },
+  {
+    "Title": "Truthy Values",
+    "VideoLengthSeconds": 287,
+    "UniqueId": "1659292434832x883050437329551400"
+  },
+  {
+    "Title": "Intro to Functions",
+    "VideoLengthSeconds": 41,
+    "UniqueId": "1659292490186x443978456631869440"
+  },
+  {
+    "Title": "Creating Functions",
+    "VideoLengthSeconds": 447,
+    "UniqueId": "1659292528209x297260691442106400"
+  },
+  {
+    "Title": "Returning Values from Functions",
+    "VideoLengthSeconds": 191,
+    "UniqueId": "1659292554421x967178557559144400"
+  },
+  {
+    "Title": "AND and OR",
+    "VideoLengthSeconds": 220,
+    "UniqueId": "1659393279889x437300612794417150"
+  },
+  {
+    "Title": "Intro to Loops",
+    "VideoLengthSeconds": 71,
+    "UniqueId": "1659393517664x252793868860522500"
+  },
+  {
+    "Title": "For Loops",
+    "VideoLengthSeconds": 307,
+    "UniqueId": "1659393539199x714352132993843200"
+  },
+  {
+    "Title": "Using Arrays to Loop (forEach)",
+    "VideoLengthSeconds": 242,
+    "UniqueId": "1659393591860x557630653285531650"
+  },
+  {
+    "Title": "Documentation - Where to Find Help",
+    "VideoLengthSeconds": 85,
+    "UniqueId": "1659393626245x226436610364276740"
+  },
+  {
+    "Title": "Finding an Item",
+    "VideoLengthSeconds": 371,
+    "UniqueId": "1659393654176x221423694870478850"
+  },
+  {
+    "Title": "Filtering an Array",
+    "VideoLengthSeconds": 158,
+    "UniqueId": "1659393686092x956408972929925100"
+  },
+  {
+    "Title": "Every and Some Array Functions",
+    "VideoLengthSeconds": 227,
+    "UniqueId": "1659393737258x278302902407135230"
+  },
+  {
+    "Title": "Iterators in Arrays and Objects",
+    "VideoLengthSeconds": 307,
+    "UniqueId": "1659393759277x931479774963433500"
+  },
+  {
+    "Title": "Choose what you'll build",
+    "VideoLengthSeconds": 100,
+    "UniqueId": "1659454446009x533092445653565400"
+  },
+  {
+    "Title": "Introduction",
+    "VideoLengthSeconds": 45,
+    "UniqueId": "1660058418454x962357009330995200"
+  },
+  {
+    "Title": "Setting Up RLBot",
+    "VideoLengthSeconds": 264,
+    "UniqueId": "1660058779825x791701445615288300"
+  },
+  {
+    "Title": "Run and Alter Your Bot",
+    "VideoLengthSeconds": 279,
+    "UniqueId": "1660059574702x885138679162470400"
+  },
+  {
+    "Title": "Where You Can Go from Here",
+    "VideoLengthSeconds": 130,
+    "UniqueId": "1660060001580x137433160748892160"
+  },
+  {
+    "Title": "Installing Your Bot Starter, Python, and VS Code",
+    "VideoLengthSeconds": 173,
+    "UniqueId": "1660259932137x684810069816901600"
+  },
+  {
+    "Title": "I Challenge YOU",
+    "VideoLengthSeconds": 100,
+    "UniqueId": "1660261018465x889638159817113600"
+  },
+  {
+    "Title": "What You Can Build with RL Data",
+    "VideoLengthSeconds": 59,
+    "UniqueId": "1660264952813x709963251803750400"
+  },
+  {
+    "Title": "How to Get Your Data",
+    "VideoLengthSeconds": 189,
+    "UniqueId": "1660264976617x803495610276642800"
+  },
+  {
+    "Title": "Access Rocket League Data",
+    "VideoLengthSeconds": 279,
+    "UniqueId": "1660266229150x786290038557900800"
+  },
+  {
+    "Title": "Find Your Rocket League Data",
+    "VideoLengthSeconds": 340,
+    "UniqueId": "1660266506625x499840351539036160"
+  },
+  {
+    "Title": "Filtering by Your ID",
+    "VideoLengthSeconds": 131,
+    "UniqueId": "1660587360070x300602785260372000"
+  },
+  {
+    "Title": "Simplifying Code - Refactoring",
+    "VideoLengthSeconds": 409,
+    "UniqueId": "1660587743128x999073325656571900"
+  },
+  {
+    "Title": "Getting Detailed Game Stats",
+    "VideoLengthSeconds": 497,
+    "UniqueId": "1660589306876x697909737137897500"
+  },
+  {
+    "Title": "Laying Out a Goal",
+    "VideoLengthSeconds": 129,
+    "UniqueId": "1660673830807x126667846750306300"
+  },
+  {
+    "Title": "Get Last 5 Replays",
+    "VideoLengthSeconds": 192,
+    "UniqueId": "1660673891059x369537825115734000"
+  },
+  {
+    "Title": "Get All Games' Data",
+    "VideoLengthSeconds": 183,
+    "UniqueId": "1660674621007x244825736488157200"
+  },
+  {
+    "Title": "Combine Player Data for Ranking",
+    "VideoLengthSeconds": 195,
+    "UniqueId": "1660674950290x595802663263404000"
+  },
+  {
+    "Title": "Sort the Players Array",
+    "VideoLengthSeconds": 381,
+    "UniqueId": "1660675337834x653432367913369600"
+  },
+  {
+    "Title": "Getting Your Rank",
+    "VideoLengthSeconds": 310,
+    "UniqueId": "1660675771434x252444895650250750"
+  },
+  {
+    "Title": "Averaging Your Rank",
+    "VideoLengthSeconds": 398,
+    "UniqueId": "1660675986737x964065584307785700"
+  },
+  {
+    "Title": "How to Beat the Skillquest Bot",
+    "VideoLengthSeconds": 148,
+    "UniqueId": "1660701759542x476038407546470400"
+  },
+  {
+    "Title": "How to Win on Strategy",
+    "VideoLengthSeconds": 135,
+    "UniqueId": "1660701817608x981554693592318000"
+  },
+  {
+    "Title": "Understanding the Framework",
+    "VideoLengthSeconds": 164,
+    "UniqueId": "1660701908819x464392137721249800"
+  },
+  {
+    "Title": "Teach the Bot to Retreat",
+    "VideoLengthSeconds": 216,
+    "UniqueId": "1660701984789x310118111213256700"
+  },
+  {
+    "Title": "Steering Your Car",
+    "VideoLengthSeconds": 622,
+    "UniqueId": "1660702030660x730209081765658600"
+  },
+  {
+    "Title": "Make Decisions Based on Position",
+    "VideoLengthSeconds": 319,
+    "UniqueId": "1660702116850x564691572761821200"
+  },
+  {
+    "Title": "Change Commands",
+    "VideoLengthSeconds": 214,
+    "UniqueId": "1660702229242x256341970396905470"
+  },
+  {
+    "Title": "Decide to Go on Offense",
+    "VideoLengthSeconds": 191,
+    "UniqueId": "1660702309006x217615625289990140"
+  },
+  {
+    "Title": "Beating the Skillquest Bot",
+    "VideoLengthSeconds": 284,
+    "UniqueId": "1660702353767x193421904381739000"
+  },
+  {
+    "Title": "Download Python",
+    "VideoLengthSeconds": 158,
+    "UniqueId": "1666284638265x366917007702491140"
+  },
+  {
+    "Title": "Download the Code",
+    "VideoLengthSeconds": 121,
+    "UniqueId": "1666284673035x767301673163685900"
+  },
+  {
+    "Title": "Download a Code Editor (VS Code)",
+    "VideoLengthSeconds": 97,
+    "UniqueId": "1666284710455x910971056131407900"
+  },
+  {
+    "Title": "Open Your Bot's Code",
+    "VideoLengthSeconds": 249,
+    "UniqueId": "1666284752495x784322894139228200"
+  },
+  {
+    "Title": "Run Your Custom Bot",
+    "VideoLengthSeconds": 318,
+    "UniqueId": "1666284782271x552668068286038000"
+  },
+  {
+    "Title": "Numbers in Python",
+    "VideoLengthSeconds": 605,
+    "UniqueId": "1666284875180x232549516795445250"
+  },
+  {
+    "Title": "Strings in Python",
+    "VideoLengthSeconds": 651,
+    "UniqueId": "1666284943089x992414167683825700"
+  },
+  {
+    "Title": "Create useful logs in RLBot",
+    "VideoLengthSeconds": 461,
+    "UniqueId": "1666285004695x379207346185830400"
+  },
+  {
+    "Title": "Intro to routines",
+    "VideoLengthSeconds": 234,
+    "UniqueId": "1666285239034x374785552373776400"
+  },
+  {
+    "Title": "Functions in Python",
+    "VideoLengthSeconds": 926,
+    "UniqueId": "1666285295485x492438696223834100"
+  },
+  {
+    "Title": "Returning data from functions",
+    "VideoLengthSeconds": 177,
+    "UniqueId": "1666285337315x799647273638428700"
+  },
+  {
+    "Title": "Purpose of Objects in Python",
+    "VideoLengthSeconds": 216,
+    "UniqueId": "1666285385323x406783251778371600"
+  },
+  {
+    "Title": "Creating Objects in Python",
+    "VideoLengthSeconds": 327,
+    "UniqueId": "1666285424252x344741736980938750"
+  },
+  {
+    "Title": "Adding Functions to Objects",
+    "VideoLengthSeconds": 278,
+    "UniqueId": "1666285479413x276134591298273300"
+  },
+  {
+    "Title": "Add a Routine to your Bot",
+    "VideoLengthSeconds": 284,
+    "UniqueId": "1666285513944x620040476067102700"
+  },
+  {
+    "Title": "Make Your Bot Jump",
+    "VideoLengthSeconds": 530,
+    "UniqueId": "1666285556210x830860128702693400"
+  },
+  {
+    "Title": "Fleet of Jumping Bots",
+    "VideoLengthSeconds": 76,
+    "UniqueId": "1666285601313x166759920297312260"
+  },
+  {
+    "Title": "Introduction to Logic and Strategy",
+    "VideoLengthSeconds": 116,
+    "UniqueId": "1666972639454x490493422462566400"
+  },
+  {
+    "Title": "Bot Routines",
+    "VideoLengthSeconds": 394,
+    "UniqueId": "1666973284990x104111311648981000"
+  },
+  {
+    "Title": "Kickoff Logic",
+    "VideoLengthSeconds": 320,
+    "UniqueId": "1666973345122x593193680080470000"
+  },
+  {
+    "Title": "Booleans in Python (True and False)",
+    "VideoLengthSeconds": 235,
+    "UniqueId": "1666973387652x142949818720059400"
+  },
+  {
+    "Title": "Comparisons in Python",
+    "VideoLengthSeconds": 325,
+    "UniqueId": "1666973450092x125199289328599040"
+  },
+  {
+    "Title": "Logic in Python (if Statements)",
+    "VideoLengthSeconds": 386,
+    "UniqueId": "1666973522427x410583854228963300"
+  },
+  {
+    "Title": "Logic in Python (and/or)",
+    "VideoLengthSeconds": 315,
+    "UniqueId": "1666973626269x280906071048454140"
+  },
+  {
+    "Title": "Building Your Bot's Shooting Strategy",
+    "VideoLengthSeconds": 418,
+    "UniqueId": "1666973699888x767267970610626600"
+  },
+  {
+    "Title": "Building Your Bot's Retreat Strategy",
+    "VideoLengthSeconds": 519,
+    "UniqueId": "1666973736495x185849701731926000"
+  },
+  {
+    "Title": "Next Steps for Strategy",
+    "VideoLengthSeconds": 337,
+    "UniqueId": "1666973767980x356958023471595500"
+  },
+  {
+    "Title": "Logic in Python (else/elif)",
+    "VideoLengthSeconds": 218,
+    "UniqueId": "1666973871779x788404529747722200"
+  },
+  {
+    "Title": "Using Logic to Complete Routines",
+    "VideoLengthSeconds": 455,
+    "UniqueId": "1667592657448x819572705359560700"
+  },
+  {
+    "Title": "Intro to finding hits",
+    "VideoLengthSeconds": 81,
+    "UniqueId": "1668182407786x536110741530345500"
+  },
+  {
+    "Title": "Python Imports",
+    "VideoLengthSeconds": 190,
+    "UniqueId": "1668183778018x806022099227639800"
+  },
+  {
+    "Title": "Python Dictionaries - First Look",
+    "VideoLengthSeconds": 165,
+    "UniqueId": "1668183818786x227884612507140100"
+  },
+  {
+    "Title": "Python Dictionaries",
+    "VideoLengthSeconds": 464,
+    "UniqueId": "1668183894774x130885955648225280"
+  },
+  {
+    "Title": "Call find_hits",
+    "VideoLengthSeconds": 330,
+    "UniqueId": "1668183984736x465453489667964900"
+  },
+  {
+    "Title": "Python Lists",
+    "VideoLengthSeconds": 658,
+    "UniqueId": "1668184062830x197368925172531200"
+  },
+  {
+    "Title": "Select your hit strategy",
+    "VideoLengthSeconds": 533,
+    "UniqueId": "1668184150878x820420342040494100"
+  },
+  {
+    "Title": "Intro to Loops and Getting Boost",
+    "VideoLengthSeconds": 116,
+    "UniqueId": "1668785150290x359266982884540400"
+  },
+  {
+    "Title": "Python For Loops",
+    "VideoLengthSeconds": 338,
+    "UniqueId": "1668785250575x709467615602933800"
+  },
+  {
+    "Title": "Filtering Lists",
+    "VideoLengthSeconds": 359,
+    "UniqueId": "1668791828082x195363074764439550"
+  },
+  {
+    "Title": "Filtering boosts",
+    "VideoLengthSeconds": 424,
+    "UniqueId": "1668792047165x850140276800356400"
+  },
+  {
+    "Title": "Finding the Closest Boost",
+    "VideoLengthSeconds": 895,
+    "UniqueId": "1668792336104x604362466713927700"
+  },
+  {
+    "Title": "Intro to refactoring",
+    "VideoLengthSeconds": 109,
+    "UniqueId": "1670260416846x131382740478853120"
+  },
+  {
+    "Title": "Refactoring boost finder",
+    "VideoLengthSeconds": 366,
+    "UniqueId": "1670260490129x318899504647766000"
+  },
+  {
+    "Title": "Refactoring retreat mechanics",
+    "VideoLengthSeconds": 338,
+    "UniqueId": "1670260599447x916108491432394800"
+  },
+  {
+    "Title": "Intro to debugging",
+    "VideoLengthSeconds": 60,
+    "UniqueId": "1670609670262x176001211472281600"
+  },
+  {
+    "Title": "Debug bot intent with text",
+    "VideoLengthSeconds": 136,
+    "UniqueId": "1670609754722x786037302231826400"
+  },
+  {
+    "Title": "Custom debug text",
+    "VideoLengthSeconds": 588,
+    "UniqueId": "1670609807529x980664527652388900"
+  },
+  {
+    "Title": "How to explore someone else's code",
+    "VideoLengthSeconds": 195,
+    "UniqueId": "1670609834809x976788305864032300"
+  },
+  {
+    "Title": "Drawing 3D lines",
+    "VideoLengthSeconds": 137,
+    "UniqueId": "1670609886484x960847247524233200"
+  },
+  {
+    "Title": "Creating an easy line-drawing solution",
+    "VideoLengthSeconds": 551,
+    "UniqueId": "1670609904384x101894766425538560"
+  },
+  {
+    "Title": "Intro to Source Control",
+    "VideoLengthSeconds": 83,
+    "UniqueId": "1671128327323x497075590241976300"
+  },
+  {
+    "Title": "Intro to GitHub",
+    "VideoLengthSeconds": 127,
+    "UniqueId": "1671128348821x385185848251908100"
+  },
+  {
+    "Title": "Upload Your Code to the Web",
+    "VideoLengthSeconds": 280,
+    "UniqueId": "1671128380200x690786198118727700"
+  },
+  {
+    "Title": "Committing Your Code",
+    "VideoLengthSeconds": 277,
+    "UniqueId": "1671128404465x879091894557868000"
+  },
+  {
+    "Title": "Branching Your Code",
+    "VideoLengthSeconds": 193,
+    "UniqueId": "1671128433663x960006481596907500"
+  },
+  {
+    "Title": "Merge Your Branches",
+    "VideoLengthSeconds": 271,
+    "UniqueId": "1671128469512x806605504548175900"
+  },
+  {
+    "Title": "Upload and Share Your Bot",
+    "VideoLengthSeconds": 148,
+    "UniqueId": "1671128488514x416589909689892860"
+  },
+  {
+    "Title": "Join the Skillquest Community Discord",
+    "VideoLengthSeconds": 188,
+    "UniqueId": "1685058490400x549449265226973200"
+  },
+  {
+    "Title": "Welcome to the Course",
+    "VideoLengthSeconds": 150,
+    "UniqueId": "1687385728568x819469717962227700"
+  },
+  {
+    "Title": "What is Coding?",
+    "VideoLengthSeconds": 547,
+    "UniqueId": "1687385795982x320269223994851300"
+  },
+  {
+    "Title": "Intro to Rocket League Mapmaking (RLMM)",
+    "VideoLengthSeconds": 240,
+    "UniqueId": "1700016746025x952811365282086900"
+  },
+  {
+    "Title": "Planning Your Project",
+    "VideoLengthSeconds": 180,
+    "UniqueId": "1700016774573x171217606739230720"
+  },
+  {
+    "Title": "Game Files",
+    "VideoLengthSeconds": 240,
+    "UniqueId": "1700016818343x285566071445913600"
+  },
+  {
+    "Title": "Installing Your Programs",
+    "VideoLengthSeconds": 600,
+    "UniqueId": "1700016835586x641732794381762600"
+  },
+  {
+    "Title": "The UDK Interface",
+    "VideoLengthSeconds": 372,
+    "UniqueId": "1700016910434x325632822113468400"
+  },
+  {
+    "Title": "Project Files",
+    "VideoLengthSeconds": 318,
+    "UniqueId": "1700016944325x522618124086018050"
+  },
+  {
+    "Title": "Your First Map",
+    "VideoLengthSeconds": 750,
+    "UniqueId": "1700016965817x305774311228833800"
+  },
+  {
+    "Title": "Rapid Test",
+    "VideoLengthSeconds": 195,
+    "UniqueId": "1700016985527x682214838825123800"
+  },
+  {
+    "Title": "Simple Materials",
+    "VideoLengthSeconds": 594,
+    "UniqueId": "1700017010009x510277283736715260"
+  },
+  {
+    "Title": "Playing Your First Custom Map",
+    "VideoLengthSeconds": 825,
+    "UniqueId": "1700017030456x326944823413047300"
+  },
+  {
+    "Title": "The Blender Interface",
+    "VideoLengthSeconds": 534,
+    "UniqueId": "1700017079794x693128676149821400"
+  },
+  {
+    "Title": "UDK vs. Blender",
+    "VideoLengthSeconds": 255,
+    "UniqueId": "1700017101256x503087946191601660"
+  },
+  {
+    "Title": "Mesh Modeling",
+    "VideoLengthSeconds": 676,
+    "UniqueId": "1700017137498x379324832454803460"
+  },
+  {
+    "Title": "Rocket League Mesh Modeling",
+    "VideoLengthSeconds": 855,
+    "UniqueId": "1700017156825x476378538119790600"
+  },
+  {
+    "Title": "Textures and Materials",
+    "VideoLengthSeconds": 594,
+    "UniqueId": "1700017189756x614132552090517500"
+  },
+  {
+    "Title": "UV Mapping",
+    "VideoLengthSeconds": 976,
+    "UniqueId": "1700017211684x218091929316884480"
+  },
+  {
+    "Title": "Exporting to UDK",
+    "VideoLengthSeconds": 768,
+    "UniqueId": "1700017240775x946023555787391000"
+  },
+  {
+    "Title": "Introduction to Kismet",
+    "VideoLengthSeconds": 941,
+    "UniqueId": "1700017273490x708478685879730200"
+  },
+  {
+    "Title": "Trigger Volumes",
+    "VideoLengthSeconds": 792,
+    "UniqueId": "1700017299660x277548776242806800"
+  },
+  {
+    "Title": "Rings Map Models",
+    "VideoLengthSeconds": 1156,
+    "UniqueId": "1700017315960x666924110228750300"
+  },
+  {
+    "Title": "Matinee",
+    "VideoLengthSeconds": 772,
+    "UniqueId": "1700017331207x718169542043631600"
+  },
+  {
+    "Title": "Checkpoints",
+    "VideoLengthSeconds": 455,
+    "UniqueId": "1700017349224x552617348549312500"
+  },
+  {
+    "Title": "Object Lists",
+    "VideoLengthSeconds": 739,
+    "UniqueId": "1700017382933x835935649637597200"
+  },
+  {
+    "Title": "Building the Map",
+    "VideoLengthSeconds": 942,
+    "UniqueId": "1700017402295x528805262649983000"
+  },
+  {
+    "Title": "Concept Art",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017447620x608725474657697800"
+  },
+  {
+    "Title": "Dummy Assets",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017476596x215520784395796480"
+  },
+  {
+    "Title": "Materials and MICs",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017496165x454779852741148700"
+  },
+  {
+    "Title": "Lighting",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017514745x586645250107768800"
+  },
+  {
+    "Title": "Boosts",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017529264x667702857768632300"
+  },
+  {
+    "Title": "Moving Obstacles",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017545558x426677005184139260"
+  },
+  {
+    "Title": "Moving Platforms",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017561863x140387970816933890"
+  },
+  {
+    "Title": "Teaching",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017600788x713991321923092500"
+  },
+  {
+    "Title": "Contracted Projects",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017614817x904716179169345500"
+  },
+  {
+    "Title": "Decryption",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017638324x637269566566432800"
+  },
+  {
+    "Title": "Level Streaming",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017656105x462547338416881660"
+  },
+  {
+    "Title": "Support Packages",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017661604x607020033096286200"
+  },
+  {
+    "Title": "Online Resources",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017886445x635590219999215600"
+  },
+  {
+    "Title": "Nondestructive Modeling",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017926571x988681485157662700"
+  },
+  {
+    "Title": "Python Scripting",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017943237x751876825346998300"
+  },
+  {
+    "Title": "Advanced Materials and Textures",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017961179x179458144274743300"
+  },
+  {
+    "Title": "ActionScript",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700017977808x320252101125734400"
+  },
+  {
+    "Title": "Advanced MICs",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700018033360x983868387255124000"
+  },
+  {
+    "Title": "Teaching",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700018069336x657323740957507600"
+  },
+  {
+    "Title": "Contracted Projects - Making Money with Mapmaking",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700018086698x123497689646104580"
+  },
+  {
+    "Title": "Decryption",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700018101737x140478815959253000"
+  },
+  {
+    "Title": "Level Streaming",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700018114772x389989085752590340"
+  },
+  {
+    "Title": "Support Packages",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1700018135507x412738335802130400"
+  },
+  {
+    "Title": "Welcome from Lethamyr",
+    "VideoLengthSeconds": 47,
+    "UniqueId": "1701982950386x890643702492430300"
+  },
+  {
+    "Title": "",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1702409413333x488164941713899500"
+  },
+  {
+    "Title": "Welcome to the Appendix",
+    "VideoLengthSeconds": 51,
+    "UniqueId": "1702409619622x842493676378914800"
+  },
+  {
+    "Title": "Publishing",
+    "VideoLengthSeconds": 429,
+    "UniqueId": "1706293367408x738426138837647400"
+  },
+  {
+    "Title": "Warnings and Errors in UDK",
+    "VideoLengthSeconds": 312,
+    "UniqueId": "1707940850409x109855763742851070"
+  },
+  {
+    "Title": "Why Learn Code?",
+    "VideoLengthSeconds": 172,
+    "UniqueId": "1709163702018x625892846167654400"
+  },
+  {
+    "Title": "How to Run Bots",
+    "VideoLengthSeconds": 506,
+    "UniqueId": "1709163982680x187604276441776130"
+  },
+  {
+    "Title": "Intro to Rocket League",
+    "VideoLengthSeconds": 279,
+    "UniqueId": "1709169471365x163321008569712640"
+  },
+  {
+    "Title": "Career Highlights: STEM Innovation Opportunities",
+    "VideoLengthSeconds": 30,
+    "UniqueId": "1709173881591x323812720160800800"
+  },
+  {
+    "Title": "Career Skills - RLBot and Python",
+    "VideoLengthSeconds": 273,
+    "UniqueId": "1710026039614x165087861916303360"
+  },
+  {
+    "Title": "Tech Workforce and Industry Needs",
+    "VideoLengthSeconds": 417,
+    "UniqueId": "1710026143532x920155675562606600"
+  },
+  {
+    "Title": "Running Practice Code",
+    "VideoLengthSeconds": 171,
+    "UniqueId": "1711481050341x386216014409367550"
+  },
+  {
+    "Title": "Meet Your Instructor",
+    "VideoLengthSeconds": 29,
+    "UniqueId": "1719245337947x593993646803517400"
+  },
+  {
+    "Title": "Installing VSCode",
+    "VideoLengthSeconds": 113,
+    "UniqueId": "1719245566218x480261600546914300"
+  },
+  {
+    "Title": "Installing Node",
+    "VideoLengthSeconds": 177,
+    "UniqueId": "1719245848566x627314850382479400"
+  },
+  {
+    "Title": "Installing SOS and SOS Emulator",
+    "VideoLengthSeconds": 299,
+    "UniqueId": "1719245935575x125377087363874820"
+  },
+  {
+    "Title": "Creating a Vite Project",
+    "VideoLengthSeconds": 278,
+    "UniqueId": "1719250385485x331897926350798850"
+  },
+  {
+    "Title": "Connecting to SOS",
+    "VideoLengthSeconds": 377,
+    "UniqueId": "1719250506422x780673328427827200"
+  },
+  {
+    "Title": "Using Data from SOS",
+    "VideoLengthSeconds": 513,
+    "UniqueId": "1719250584048x637737997803454500"
+  },
+  {
+    "Title": "Animating the Target Player Boost",
+    "VideoLengthSeconds": 379,
+    "UniqueId": "1719250982816x766583398742884400"
+  },
+  {
+    "Title": "Creating the Scorebug",
+    "VideoLengthSeconds": 262,
+    "UniqueId": "1719251142362x751213127592837100"
+  },
+  {
+    "Title": "Displaying Team Names and Goals",
+    "VideoLengthSeconds": 539,
+    "UniqueId": "1719251227583x217779705533693950"
+  },
+  {
+    "Title": "Creating the Clock",
+    "VideoLengthSeconds": 472,
+    "UniqueId": "1719251336581x551579716521558000"
+  },
+  {
+    "Title": "Exploring More About SOS",
+    "VideoLengthSeconds": 224,
+    "UniqueId": "1719251538922x861845643071324200"
+  },
+  {
+    "Title": "Fixing Bugs",
+    "VideoLengthSeconds": 444,
+    "UniqueId": "1719251621042x225640842626334700"
+  },
+  {
+    "Title": "Outro",
+    "VideoLengthSeconds": 96,
+    "UniqueId": "1719251743376x431123696991076350"
+  },
+  {
+    "Title": "MSgt Raxter - My Proudest Moments",
+    "VideoLengthSeconds": 30,
+    "UniqueId": "1719855590691x453650187562778600"
+  },
+  {
+    "Title": "MSgt Raxter - My Proudest Moments",
+    "VideoLengthSeconds": 30,
+    "UniqueId": "1719856180663x904678207194923000"
+  },
+  {
+    "Title": "Genesys Works Bot Upload",
+    "VideoLengthSeconds": 323,
+    "UniqueId": "1723038511982x158707673993314300"
+  },
+  {
+    "Title": "Apply for your Skillquest Credential",
+    "VideoLengthSeconds": 126,
+    "UniqueId": "1723038746490x943762378695639000"
+  },
+  {
+    "Title": "Play your bot against friends",
+    "VideoLengthSeconds": 174,
+    "UniqueId": "1723038844555x161995086592737280"
+  },
+  {
+    "Title": "The Next Greatest Generation is Now",
+    "VideoLengthSeconds": 61,
+    "UniqueId": "1724349451716x632715291610054700"
+  },
+  {
+    "Title": "Working in IT in the National Guard",
+    "VideoLengthSeconds": 35,
+    "UniqueId": "1725414807105x861170050017263600"
+  },
+  {
+    "Title": "Electromagnetic Warfare Specialists with the National Guard",
+    "VideoLengthSeconds": 31,
+    "UniqueId": "1725414950665x647370874074169300"
+  },
+  {
+    "Title": "",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1725414952522x324607387514437600"
+  },
+  {
+    "Title": "Geospatial Intelligence Imagery Analysts with the National Guard",
+    "VideoLengthSeconds": 31,
+    "UniqueId": "1725415049181x846021506330001400"
+  },
+  {
+    "Title": "Course Introduction",
+    "VideoLengthSeconds": 76,
+    "UniqueId": "1726001789517x822496179868663800"
+  },
+  {
+    "Title": "Certifications",
+    "VideoLengthSeconds": 139,
+    "UniqueId": "1726002006625x917602643256016900"
+  },
+  {
+    "Title": "Writing and Running Code in Replit",
+    "VideoLengthSeconds": 114,
+    "UniqueId": "1726002051713x342690521294045200"
+  },
+  {
+    "Title": "",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1726002145594x443900124298215400"
+  },
+  {
+    "Title": "Module 2 Introduction",
+    "VideoLengthSeconds": 60,
+    "UniqueId": "1726002318257x853157252267245600"
+  },
+  {
+    "Title": "Character Movement",
+    "VideoLengthSeconds": 194,
+    "UniqueId": "1726002503316x435196297005498400"
+  },
+  {
+    "Title": "Coordinates and Strings",
+    "VideoLengthSeconds": 486,
+    "UniqueId": "1726002700483x933734691828662300"
+  },
+  {
+    "Title": "Advanced Movement",
+    "VideoLengthSeconds": 229,
+    "UniqueId": "1726002752829x640215610315243500"
+  },
+  {
+    "Title": "Putting Text on the Screen",
+    "VideoLengthSeconds": 177,
+    "UniqueId": "1726003039786x709855031264280600"
+  },
+  {
+    "Title": "Graphics",
+    "VideoLengthSeconds": 136,
+    "UniqueId": "1726003145289x631348367422128100"
+  },
+  {
+    "Title": "Strings, Files, and Folders",
+    "VideoLengthSeconds": 170,
+    "UniqueId": "1726003256140x386448577182040060"
+  },
+  {
+    "Title": "Create Your Own Game",
+    "VideoLengthSeconds": 300,
+    "UniqueId": "1726003322533x346782212439408640"
+  },
+  {
+    "Title": "Introduction to Logic",
+    "VideoLengthSeconds": 48,
+    "UniqueId": "1726003436994x320985469908156400"
+  },
+  {
+    "Title": "Demonstration of Logic",
+    "VideoLengthSeconds": 140,
+    "UniqueId": "1726003619731x434437322002137100"
+  },
+  {
+    "Title": "If Statements",
+    "VideoLengthSeconds": 281,
+    "UniqueId": "1726003662980x656547927906844700"
+  },
+  {
+    "Title": "And / Or Statements",
+    "VideoLengthSeconds": 170,
+    "UniqueId": "1726003711152x611460077740621800"
+  },
+  {
+    "Title": "Else and Elif Statements",
+    "VideoLengthSeconds": 249,
+    "UniqueId": "1726003772525x809576076070355000"
+  },
+  {
+    "Title": "Boundaries",
+    "VideoLengthSeconds": 298,
+    "UniqueId": "1726003832215x565631073701068800"
+  },
+  {
+    "Title": "Gravity",
+    "VideoLengthSeconds": 281,
+    "UniqueId": "1726003886006x218626315247943700"
+  },
+  {
+    "Title": "Collision",
+    "VideoLengthSeconds": 375,
+    "UniqueId": "1726003919671x673256488825782300"
+  },
+  {
+    "Title": "Module 4 Introduction",
+    "VideoLengthSeconds": 69,
+    "UniqueId": "1726004067468x713782862027685900"
+  },
+  {
+    "Title": "Introduction to Functions",
+    "VideoLengthSeconds": 220,
+    "UniqueId": "1726004476598x902243638604988400"
+  },
+  {
+    "Title": "Functions and Arguments",
+    "VideoLengthSeconds": 535,
+    "UniqueId": "1726004518888x867859897227149300"
+  },
+  {
+    "Title": "Function Returns",
+    "VideoLengthSeconds": 346,
+    "UniqueId": "1726004580369x530242299981463550"
+  },
+  {
+    "Title": "Randomizing Locations in Your Game",
+    "VideoLengthSeconds": 372,
+    "UniqueId": "1726004637989x881036841500803100"
+  },
+  {
+    "Title": "Simplifying Code with Functions",
+    "VideoLengthSeconds": 346,
+    "UniqueId": "1726004674989x566328820988379140"
+  },
+  {
+    "Title": "Module 5 Introduction",
+    "VideoLengthSeconds": 46,
+    "UniqueId": "1726004811351x285345490247090180"
+  },
+  {
+    "Title": "Code Walkthrough",
+    "VideoLengthSeconds": 246,
+    "UniqueId": "1726005372822x144253556626554880"
+  },
+  {
+    "Title": "Drawing Characters",
+    "VideoLengthSeconds": 290,
+    "UniqueId": "1726005424307x700056212839596000"
+  },
+  {
+    "Title": "Animating Characters",
+    "VideoLengthSeconds": 110,
+    "UniqueId": "1726005462479x222184053144027140"
+  },
+  {
+    "Title": "Drawing Backgrounds",
+    "VideoLengthSeconds": 272,
+    "UniqueId": "1726005500925x971456399561195500"
+  },
+  {
+    "Title": "Keyboard Controls",
+    "VideoLengthSeconds": 365,
+    "UniqueId": "1726005547345x567053343303401500"
+  },
+  {
+    "Title": "Keyboard and Mouse",
+    "VideoLengthSeconds": 95,
+    "UniqueId": "1726005586849x181618562751791100"
+  },
+  {
+    "Title": "Introduction to Lists",
+    "VideoLengthSeconds": 412,
+    "UniqueId": "1726005669174x875646066796003300"
+  },
+  {
+    "Title": "Introduction to Loops",
+    "VideoLengthSeconds": 327,
+    "UniqueId": "1726005715161x314372029957537800"
+  },
+  {
+    "Title": "Adding Obstacles",
+    "VideoLengthSeconds": 463,
+    "UniqueId": "1726005760391x447020216278843400"
+  },
+  {
+    "Title": "Completing the Game",
+    "VideoLengthSeconds": 679,
+    "UniqueId": "1726005804907x223894838649028600"
+  },
+  {
+    "Title": "Additions to the Game",
+    "VideoLengthSeconds": 437,
+    "UniqueId": "1726005855940x793928987312128000"
+  },
+  {
+    "Title": "Introduction to Objects Module",
+    "VideoLengthSeconds": 231,
+    "UniqueId": "1726006313641x758926718102405100"
+  },
+  {
+    "Title": "The Purpose of Objects",
+    "VideoLengthSeconds": 124,
+    "UniqueId": "1726006382325x231041394578817020"
+  },
+  {
+    "Title": "Creating Your First Object",
+    "VideoLengthSeconds": 326,
+    "UniqueId": "1726006422842x970847963179647000"
+  },
+  {
+    "Title": "Functions on Objects",
+    "VideoLengthSeconds": 495,
+    "UniqueId": "1726006460552x297579393108934660"
+  },
+  {
+    "Title": "Object Constructors",
+    "VideoLengthSeconds": 253,
+    "UniqueId": "1726006505326x355766715718041600"
+  },
+  {
+    "Title": "Building In-game Objects",
+    "VideoLengthSeconds": 592,
+    "UniqueId": "1726006549052x134819295597166600"
+  },
+  {
+    "Title": "Adding Random Movement",
+    "VideoLengthSeconds": 260,
+    "UniqueId": "1726006589778x667450007094558700"
+  },
+  {
+    "Title": "Static Types",
+    "VideoLengthSeconds": 428,
+    "UniqueId": "1726006637374x595933567443009500"
+  },
+  {
+    "Title": "Bouncing Rectangles and Simple Physics",
+    "VideoLengthSeconds": 631,
+    "UniqueId": "1726006694968x498177251599188000"
+  },
+  {
+    "Title": "Creating Projectiles",
+    "VideoLengthSeconds": 444,
+    "UniqueId": "1726006727766x903365799047331800"
+  },
+  {
+    "Title": "Adding Projectiles with Space Bar",
+    "VideoLengthSeconds": 166,
+    "UniqueId": "1726006767815x768276461673513000"
+  },
+  {
+    "Title": "Collisions with Projectiles",
+    "VideoLengthSeconds": 279,
+    "UniqueId": "1726006839345x372707787102748700"
+  },
+  {
+    "Title": "Adding the Starship",
+    "VideoLengthSeconds": 500,
+    "UniqueId": "1726006886169x190861824321126400"
+  },
+  {
+    "Title": "Shooting from the Starship",
+    "VideoLengthSeconds": 184,
+    "UniqueId": "1726006930459x760315056042278900"
+  },
+  {
+    "Title": "Introduction to Module 7",
+    "VideoLengthSeconds": 47,
+    "UniqueId": "1726007488354x373873510569476100"
+  },
+  {
+    "Title": "Introduction to Pressed Keys",
+    "VideoLengthSeconds": 60,
+    "UniqueId": "1726007525992x230541610018930700"
+  },
+  {
+    "Title": "Dictionaries in Python",
+    "VideoLengthSeconds": 343,
+    "UniqueId": "1726007569115x364269667500949500"
+  },
+  {
+    "Title": "Turning the Character",
+    "VideoLengthSeconds": 538,
+    "UniqueId": "1726007608106x113916814377615360"
+  },
+  {
+    "Title": "Firing Projectiles",
+    "VideoLengthSeconds": 641,
+    "UniqueId": "1726007665057x136217237735604220"
+  },
+  {
+    "Title": "Flying at Angles",
+    "VideoLengthSeconds": 495,
+    "UniqueId": "1726007703533x735626582201991200"
+  },
+  {
+    "Title": "Reorganizing Your Code",
+    "VideoLengthSeconds": 401,
+    "UniqueId": "1726007748301x330725301199831040"
+  },
+  {
+    "Title": "Start and End Screens",
+    "VideoLengthSeconds": 438,
+    "UniqueId": "1726007790726x811364714999709700"
+  },
+  {
+    "Title": "Polishing",
+    "VideoLengthSeconds": 597,
+    "UniqueId": "1726007841036x565489195530321900"
+  },
+  {
+    "Title": "Introduction to Module 8",
+    "VideoLengthSeconds": 102,
+    "UniqueId": "1726008124347x534038378739400700"
+  },
+  {
+    "Title": "Downloading Python",
+    "VideoLengthSeconds": 171,
+    "UniqueId": "1726008201822x661721520910106600"
+  },
+  {
+    "Title": "Download Your Code",
+    "VideoLengthSeconds": 187,
+    "UniqueId": "1726008257844x234958601133228030"
+  },
+  {
+    "Title": "Running Your Code Locally",
+    "VideoLengthSeconds": 221,
+    "UniqueId": "1726008279431x617821485744783400"
+  },
+  {
+    "Title": "Setting Up a Virtual Environment",
+    "VideoLengthSeconds": 65,
+    "UniqueId": "1726008357383x203009164671451140"
+  },
+  {
+    "Title": "Saving Files",
+    "VideoLengthSeconds": 58,
+    "UniqueId": "1726008414478x483268182854860800"
+  },
+  {
+    "Title": "Adding Sound Effects",
+    "VideoLengthSeconds": 308,
+    "UniqueId": "1726008705553x752910680159420400"
+  },
+  {
+    "Title": "Adding Background Music",
+    "VideoLengthSeconds": 284,
+    "UniqueId": "1726008745714x739303507522486300"
+  },
+  {
+    "Title": "Learning More From the Docs",
+    "VideoLengthSeconds": 487,
+    "UniqueId": "1726008807614x565003601876090900"
+  },
+  {
+    "Title": "Sharing Code via Replit",
+    "VideoLengthSeconds": 189,
+    "UniqueId": "1726008959957x581424719368028200"
+  },
+  {
+    "Title": "Sharing Your Project Files",
+    "VideoLengthSeconds": 177,
+    "UniqueId": "1726009009801x455575872369066000"
+  },
+  {
+    "Title": "Share Your Playable Game",
+    "VideoLengthSeconds": 451,
+    "UniqueId": "1726009047492x382983761626660860"
+  },
+  {
+    "Title": "An Introduction to GameDev with Python",
+    "VideoLengthSeconds": 331,
+    "UniqueId": "1726170950691x944321161687203800"
+  },
+  {
+    "Title": "Credentials",
+    "VideoLengthSeconds": 194,
+    "UniqueId": "1726171019627x607885167792488400"
+  },
+  {
+    "Title": "Common Coding Challenges",
+    "VideoLengthSeconds": 359,
+    "UniqueId": "1726171091746x756599215073787900"
+  },
+  {
+    "Title": "AI Strengths and Weaknesses",
+    "VideoLengthSeconds": 347,
+    "UniqueId": "1726171236678x185592448626196480"
+  },
+  {
+    "Title": "Numbers in Python",
+    "VideoLengthSeconds": 605,
+    "UniqueId": "1726176406580x390538694316785660"
+  },
+  {
+    "Title": "Strings in Python",
+    "VideoLengthSeconds": 651,
+    "UniqueId": "1726176568833x238093782609035260"
+  },
+  {
+    "Title": "The Greatest Generation is Now",
+    "VideoLengthSeconds": 60,
+    "UniqueId": "1726178315289x317473779797983200"
+  },
+  {
+    "Title": "STEM Innovation Opportunities",
+    "VideoLengthSeconds": 30,
+    "UniqueId": "1726178370140x950843333336891400"
+  },
+  {
+    "Title": "Electromagnetic Warfare Specialists",
+    "VideoLengthSeconds": 30,
+    "UniqueId": "1726178446999x294282237270556700"
+  },
+  {
+    "Title": "Geospatial Intelligence Imagery Analysts",
+    "VideoLengthSeconds": 30,
+    "UniqueId": "1726178504040x552101606989234200"
+  },
+  {
+    "Title": "Run RLBot",
+    "VideoLengthSeconds": 203,
+    "UniqueId": "1727719090320x808378135807524900"
+  },
+  {
+    "Title": "",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1727735201142x752159671499620400"
+  },
+  {
+    "Title": "An Introduction to Rocket League Bot Building",
+    "VideoLengthSeconds": 451,
+    "UniqueId": "1731968587810x280852461263257600"
+  },
+  {
+    "Title": "",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1732047621362x336693844128563200"
+  },
+  {
+    "Title": "",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1732047641023x966690168245846000"
+  },
+  {
+    "Title": "",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1732048129386x369861331899908100"
+  },
+  {
+    "Title": "The Next Greatest Generation is Now",
+    "VideoLengthSeconds": 61,
+    "UniqueId": "1732049120202x655360121181306900"
+  },
+  {
+    "Title": "Working in IT in the National Guard",
+    "VideoLengthSeconds": 35,
+    "UniqueId": "1732049155242x169313093967675400"
+  },
+  {
+    "Title": "Electromagnetic Warfare Specialists with the National Guard",
+    "VideoLengthSeconds": 31,
+    "UniqueId": "1732049191483x934968114162958300"
+  },
+  {
+    "Title": "Geospatial Intelligence Imagery Analysts with the National Guard",
+    "VideoLengthSeconds": 31,
+    "UniqueId": "1732049246031x415635828385513500"
+  },
+  {
+    "Title": "An Introduction to Rocket League",
+    "VideoLengthSeconds": 451,
+    "UniqueId": "1732049864963x273675791859449860"
+  },
+  {
+    "Title": "Course Introduction",
+    "VideoLengthSeconds": 76,
+    "UniqueId": "1736204688252x493533819901313000"
+  },
+  {
+    "Title": "Certifications",
+    "VideoLengthSeconds": 139,
+    "UniqueId": "1736204714925x458168634314326000"
+  },
+  {
+    "Title": "Writing and Running Code in Replit",
+    "VideoLengthSeconds": 114,
+    "UniqueId": "1736204736597x498881800472887300"
+  },
+  {
+    "Title": "",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1736204758009x167637452579143680"
+  },
+  {
+    "Title": "Module 2 Introduction",
+    "VideoLengthSeconds": 60,
+    "UniqueId": "1736204790800x231662680076714000"
+  },
+  {
+    "Title": "Numbers in Python",
+    "VideoLengthSeconds": 605,
+    "UniqueId": "1736204825590x878172363860213800"
+  },
+  {
+    "Title": "Character Movement",
+    "VideoLengthSeconds": 194,
+    "UniqueId": "1736204853081x508929582601601000"
+  },
+  {
+    "Title": "Coordinates and Strings",
+    "VideoLengthSeconds": 486,
+    "UniqueId": "1736204879633x674309499556724700"
+  },
+  {
+    "Title": "Advanced Movement",
+    "VideoLengthSeconds": 229,
+    "UniqueId": "1736204917311x941328436373225500"
+  },
+  {
+    "Title": "Strings in Python",
+    "VideoLengthSeconds": 651,
+    "UniqueId": "1736204940951x535981851908505600"
+  },
+  {
+    "Title": "Putting Text on the Screen",
+    "VideoLengthSeconds": 177,
+    "UniqueId": "1736204962027x480474280958361600"
+  },
+  {
+    "Title": "Graphics",
+    "VideoLengthSeconds": 136,
+    "UniqueId": "1736204988479x839579911751467000"
+  },
+  {
+    "Title": "Strings, Files, and Folders",
+    "VideoLengthSeconds": 170,
+    "UniqueId": "1736205018254x229338104724717570"
+  },
+  {
+    "Title": "Create Your Own Game",
+    "VideoLengthSeconds": 300,
+    "UniqueId": "1736205044438x696682495725011000"
+  },
+  {
+    "Title": "Introduction to Logic",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1736205096571x848485391203565600"
+  },
+  {
+    "Title": "Demonstration of Logic",
+    "VideoLengthSeconds": 140,
+    "UniqueId": "1736205130381x383917753195036700"
+  },
+  {
+    "Title": "If Statements",
+    "VideoLengthSeconds": 281,
+    "UniqueId": "1736205176828x313478923415453700"
+  },
+  {
+    "Title": "And / Or Statements",
+    "VideoLengthSeconds": 170,
+    "UniqueId": "1736205205634x596617599144427500"
+  },
+  {
+    "Title": "Else and Elif Statements",
+    "VideoLengthSeconds": 249,
+    "UniqueId": "1736205230337x524231074463088640"
+  },
+  {
+    "Title": "Boundaries",
+    "VideoLengthSeconds": 298,
+    "UniqueId": "1736205256058x401603300940316700"
+  },
+  {
+    "Title": "Gravity",
+    "VideoLengthSeconds": 281,
+    "UniqueId": "1736205295527x110133454679834620"
+  },
+  {
+    "Title": "Collision",
+    "VideoLengthSeconds": 375,
+    "UniqueId": "1736205316986x398498544635871200"
+  },
+  {
+    "Title": "Module 4 Introduction",
+    "VideoLengthSeconds": 69,
+    "UniqueId": "1736205374803x899246517277950000"
+  },
+  {
+    "Title": "Introduction to Functions",
+    "VideoLengthSeconds": 220,
+    "UniqueId": "1736205425274x147226735138832400"
+  },
+  {
+    "Title": "Functions and Arguments",
+    "VideoLengthSeconds": 535,
+    "UniqueId": "1736205445808x495023660907626500"
+  },
+  {
+    "Title": "Function Returns",
+    "VideoLengthSeconds": 346,
+    "UniqueId": "1736205487857x322817824983613440"
+  },
+  {
+    "Title": "Randomizing Locations in Your Game",
+    "VideoLengthSeconds": 372,
+    "UniqueId": "1736205514739x902416383952289800"
+  },
+  {
+    "Title": "Simplifying Code with Functions",
+    "VideoLengthSeconds": 346,
+    "UniqueId": "1736205546403x444180611503226900"
+  },
+  {
+    "Title": "",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1736205574209x968508857768214500"
+  },
+  {
+    "Title": "Module 5 Introduction",
+    "VideoLengthSeconds": 46,
+    "UniqueId": "1736205601245x370277923912417300"
+  },
+  {
+    "Title": "Code Walkthrough",
+    "VideoLengthSeconds": 246,
+    "UniqueId": "1736205639148x734405527772069900"
+  },
+  {
+    "Title": "Drawing Characters",
+    "VideoLengthSeconds": 290,
+    "UniqueId": "1736205663924x422747787273961500"
+  },
+  {
+    "Title": "Animating Characters",
+    "VideoLengthSeconds": 110,
+    "UniqueId": "1736205694204x909160578903965700"
+  },
+  {
+    "Title": "Drawing Backgrounds",
+    "VideoLengthSeconds": 272,
+    "UniqueId": "1736205719186x891990311475871700"
+  },
+  {
+    "Title": "Keyboard Controls",
+    "VideoLengthSeconds": 365,
+    "UniqueId": "1736205747225x275162877342777340"
+  },
+  {
+    "Title": "Keyboard and Mouse",
+    "VideoLengthSeconds": 95,
+    "UniqueId": "1736205776295x835155923704741900"
+  },
+  {
+    "Title": "Introduction to Lists",
+    "VideoLengthSeconds": 412,
+    "UniqueId": "1736205801344x972078448121741300"
+  },
+  {
+    "Title": "Introduction to Loops",
+    "VideoLengthSeconds": 327,
+    "UniqueId": "1736205836301x814772053141094400"
+  },
+  {
+    "Title": "Adding Obstacles",
+    "VideoLengthSeconds": 463,
+    "UniqueId": "1736205860202x184850366983831550"
+  },
+  {
+    "Title": "Completing the Game",
+    "VideoLengthSeconds": 679,
+    "UniqueId": "1736205883230x846842268182118400"
+  },
+  {
+    "Title": "Additions to the Game",
+    "VideoLengthSeconds": 437,
+    "UniqueId": "1736205907904x853400271521579000"
+  },
+  {
+    "Title": "Introduction to Objects Module",
+    "VideoLengthSeconds": 231,
+    "UniqueId": "1736205955945x641266234309738500"
+  },
+  {
+    "Title": "The Purpose of Objects",
+    "VideoLengthSeconds": 124,
+    "UniqueId": "1736205976163x260425817621790700"
+  },
+  {
+    "Title": "Creating Your First Object",
+    "VideoLengthSeconds": 326,
+    "UniqueId": "1736206001277x942901446656917500"
+  },
+  {
+    "Title": "Functions on Objects",
+    "VideoLengthSeconds": 495,
+    "UniqueId": "1736206030688x103602427375648770"
+  },
+  {
+    "Title": "Object Constructors",
+    "VideoLengthSeconds": 253,
+    "UniqueId": "1736206048111x880780075244716000"
+  },
+  {
+    "Title": "Building In-game Objects",
+    "VideoLengthSeconds": 592,
+    "UniqueId": "1736206066912x651302736943382500"
+  },
+  {
+    "Title": "Adding Random Movement",
+    "VideoLengthSeconds": 260,
+    "UniqueId": "1736206101082x579475863971299300"
+  },
+  {
+    "Title": "Static Types",
+    "VideoLengthSeconds": 428,
+    "UniqueId": "1736206125364x497234813769482200"
+  },
+  {
+    "Title": "Bouncing Rectangles and Simple Physics",
+    "VideoLengthSeconds": 631,
+    "UniqueId": "1736206145257x216706271891161100"
+  },
+  {
+    "Title": "Creating Projectiles",
+    "VideoLengthSeconds": 444,
+    "UniqueId": "1736206169430x161402791170932740"
+  },
+  {
+    "Title": "Adding Projectiles with Space Bar",
+    "VideoLengthSeconds": 166,
+    "UniqueId": "1736206184236x261569368500731900"
+  },
+  {
+    "Title": "Collisions with Projectiles",
+    "VideoLengthSeconds": 279,
+    "UniqueId": "1736206213172x152766470681788400"
+  },
+  {
+    "Title": "Adding the Starship",
+    "VideoLengthSeconds": 500,
+    "UniqueId": "1736206234891x248259117179207680"
+  },
+  {
+    "Title": "Shooting from the Starship",
+    "VideoLengthSeconds": 184,
+    "UniqueId": "1736206262435x835927834244939800"
+  },
+  {
+    "Title": "Introduction to Module 7",
+    "VideoLengthSeconds": 47,
+    "UniqueId": "1736206299892x334441966914502660"
+  },
+  {
+    "Title": "Introduction to Pressed Keys",
+    "VideoLengthSeconds": 60,
+    "UniqueId": "1736206334924x735154291075186700"
+  },
+  {
+    "Title": "Dictionaries in Python",
+    "VideoLengthSeconds": 343,
+    "UniqueId": "1736206355240x191126176859160580"
+  },
+  {
+    "Title": "Turning the Character",
+    "VideoLengthSeconds": 538,
+    "UniqueId": "1736206387125x918096442700333000"
+  },
+  {
+    "Title": "Firing Projectiles",
+    "VideoLengthSeconds": 641,
+    "UniqueId": "1736206408498x574857958815957000"
+  },
+  {
+    "Title": "Flying at Angles",
+    "VideoLengthSeconds": 495,
+    "UniqueId": "1736206421918x380703353044467700"
+  },
+  {
+    "Title": "Reorganizing Your Code",
+    "VideoLengthSeconds": 401,
+    "UniqueId": "1736206440685x318675816353366000"
+  },
+  {
+    "Title": "Start and End Screens",
+    "VideoLengthSeconds": 438,
+    "UniqueId": "1736206472556x681723032451940400"
+  },
+  {
+    "Title": "Polishing",
+    "VideoLengthSeconds": 597,
+    "UniqueId": "1736206522993x920964566828187600"
+  },
+  {
+    "Title": "Introduction to Module 8",
+    "VideoLengthSeconds": 102,
+    "UniqueId": "1736206567437x854048684604653600"
+  },
+  {
+    "Title": "Downloading Python",
+    "VideoLengthSeconds": 171,
+    "UniqueId": "1736206585049x106844559044247550"
+  },
+  {
+    "Title": "Download Your Code",
+    "VideoLengthSeconds": 187,
+    "UniqueId": "1736206611661x904178515596017700"
+  },
+  {
+    "Title": "Running Your Code Locally",
+    "VideoLengthSeconds": 221,
+    "UniqueId": "1736206637172x157810835268567040"
+  },
+  {
+    "Title": "Setting Up a Virtual Environment",
+    "VideoLengthSeconds": 65,
+    "UniqueId": "1736206653385x105509596826435580"
+  },
+  {
+    "Title": "Saving Files",
+    "VideoLengthSeconds": 58,
+    "UniqueId": "1736206671094x338551755850121200"
+  },
+  {
+    "Title": "Adding Sound Effects",
+    "VideoLengthSeconds": 308,
+    "UniqueId": "1736206707206x546395323430338560"
+  },
+  {
+    "Title": "Adding Background Music",
+    "VideoLengthSeconds": 284,
+    "UniqueId": "1736206733891x209043244206784500"
+  },
+  {
+    "Title": "Learning More From the Docs",
+    "VideoLengthSeconds": 487,
+    "UniqueId": "1736206761017x554558396587573250"
+  },
+  {
+    "Title": "",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1736206776653x604007854697349100"
+  },
+  {
+    "Title": "Sharing Code via Replit",
+    "VideoLengthSeconds": 189,
+    "UniqueId": "1736206810212x260983509473296400"
+  },
+  {
+    "Title": "Sharing Your Project Files",
+    "VideoLengthSeconds": 177,
+    "UniqueId": "1736206844301x819734791417757700"
+  },
+  {
+    "Title": "Share Your Playable Game",
+    "VideoLengthSeconds": 451,
+    "UniqueId": "1736206868199x826944459798216700"
+  },
+  {
+    "Title": "An Introduction to GameDev with Python",
+    "VideoLengthSeconds": 331,
+    "UniqueId": "1739301342134x238284634479132670"
+  },
+  {
+    "Title": "Credentials",
+    "VideoLengthSeconds": 194,
+    "UniqueId": "1739301366908x137051179799543800"
+  },
+  {
+    "Title": "Common Coding Challenges",
+    "VideoLengthSeconds": 359,
+    "UniqueId": "1739301397073x142798468544462850"
+  },
+  {
+    "Title": "AI Strengths and Weaknesses",
+    "VideoLengthSeconds": 347,
+    "UniqueId": "1739301496856x249045875325665300"
+  },
+  {
+    "Title": "Numbers in Python",
+    "VideoLengthSeconds": 605,
+    "UniqueId": "1739303305062x525067551967281150"
+  },
+  {
+    "Title": "Strings in Python",
+    "VideoLengthSeconds": 651,
+    "UniqueId": "1739303327551x835043314037424100"
+  },
+  {
+    "Title": "If Statements",
+    "VideoLengthSeconds": 281,
+    "UniqueId": "1739303417416x765652595200491500"
+  },
+  {
+    "Title": "And / Or Statements",
+    "VideoLengthSeconds": 170,
+    "UniqueId": "1739303442671x962591237326241800"
+  },
+  {
+    "Title": "Else and Elif Statements",
+    "VideoLengthSeconds": 249,
+    "UniqueId": "1739303466484x753058352598876200"
+  },
+  {
+    "Title": "",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1739303497610x130165400002887680"
+  },
+  {
+    "Title": "Introduction to Functions",
+    "VideoLengthSeconds": 220,
+    "UniqueId": "1739306289940x921739985338761200"
+  },
+  {
+    "Title": "Functions and Arguments",
+    "VideoLengthSeconds": 535,
+    "UniqueId": "1739306345923x932436326822707200"
+  },
+  {
+    "Title": "Function Returns",
+    "VideoLengthSeconds": 346,
+    "UniqueId": "1739306373913x257175213396197380"
+  },
+  {
+    "Title": "Introduction to Lists",
+    "VideoLengthSeconds": 412,
+    "UniqueId": "1739306456365x419056365516881900"
+  },
+  {
+    "Title": "Introduction to Loops",
+    "VideoLengthSeconds": 327,
+    "UniqueId": "1739306485139x680885226685071400"
+  },
+  {
+    "Title": "The Purpose of Objects",
+    "VideoLengthSeconds": 124,
+    "UniqueId": "1739306574274x418166335216287740"
+  },
+  {
+    "Title": "Creating Your First Object",
+    "VideoLengthSeconds": 326,
+    "UniqueId": "1739306613062x107257259943788540"
+  },
+  {
+    "Title": "Functions on Objects",
+    "VideoLengthSeconds": 495,
+    "UniqueId": "1739306654285x971901291644584000"
+  },
+  {
+    "Title": "Object Constructors",
+    "VideoLengthSeconds": 253,
+    "UniqueId": "1739306681559x446918486189670400"
+  },
+  {
+    "Title": "Dictionaries in Python",
+    "VideoLengthSeconds": 343,
+    "UniqueId": "1739306763971x129374794216898560"
+  },
+  {
+    "Title": "Reorganizing Your Code",
+    "VideoLengthSeconds": 401,
+    "UniqueId": "1739306789988x298610814794596350"
+  },
+  {
+    "Title": "New Mexico Army National Guard",
+    "VideoLengthSeconds": 31,
+    "UniqueId": "1739746463125x831018650624589800"
+  },
+  {
+    "Title": "Working in IT in the National Guard",
+    "VideoLengthSeconds": 35,
+    "UniqueId": "1739746537879x695232902080757800"
+  },
+  {
+    "Title": "Electromagnetic Warfare Specialists with the National Guard",
+    "VideoLengthSeconds": 31,
+    "UniqueId": "1739746566149x564979671700340740"
+  },
+  {
+    "Title": "Geospatial Intelligence Imagery Analysts with the National Guard",
+    "VideoLengthSeconds": 31,
+    "UniqueId": "1739746589427x930433003713724400"
+  },
+  {
+    "Title": "Course Introduction",
+    "VideoLengthSeconds": 76,
+    "UniqueId": "1739752499170x328375595152179200"
+  },
+  {
+    "Title": "Certifications",
+    "VideoLengthSeconds": 139,
+    "UniqueId": "1739752533574x867183781709348900"
+  },
+  {
+    "Title": "Writing and Running Code in Replit",
+    "VideoLengthSeconds": 114,
+    "UniqueId": "1739752550963x785932166921453600"
+  },
+  {
+    "Title": "New Mexico Army National Guard",
+    "VideoLengthSeconds": 31,
+    "UniqueId": "1739752588376x217161643862786050"
+  },
+  {
+    "Title": "Module 2 Introduction",
+    "VideoLengthSeconds": 60,
+    "UniqueId": "1739752627044x949863549782196200"
+  },
+  {
+    "Title": "Numbers in Python",
+    "VideoLengthSeconds": 605,
+    "UniqueId": "1739752661948x946650934399991800"
+  },
+  {
+    "Title": "Character Movement",
+    "VideoLengthSeconds": 194,
+    "UniqueId": "1739752695683x523142462889525250"
+  },
+  {
+    "Title": "Coordinates and Strings",
+    "VideoLengthSeconds": 486,
+    "UniqueId": "1739752722201x704788213632073700"
+  },
+  {
+    "Title": "Advanced Movement",
+    "VideoLengthSeconds": 229,
+    "UniqueId": "1739752740692x318445531832254460"
+  },
+  {
+    "Title": "Strings in Python",
+    "VideoLengthSeconds": 651,
+    "UniqueId": "1739752778679x894646921556394000"
+  },
+  {
+    "Title": "Putting Text on the Screen",
+    "VideoLengthSeconds": 177,
+    "UniqueId": "1739752804571x399253342979096600"
+  },
+  {
+    "Title": "Graphics",
+    "VideoLengthSeconds": 136,
+    "UniqueId": "1739752826357x586530036997423100"
+  },
+  {
+    "Title": "Strings, Files, and Folders",
+    "VideoLengthSeconds": 170,
+    "UniqueId": "1739752859362x284482230911500300"
+  },
+  {
+    "Title": "Create Your Own Game",
+    "VideoLengthSeconds": 300,
+    "UniqueId": "1739752913555x269497473268973570"
+  },
+  {
+    "Title": "",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1739752937974x726981431121674200"
+  },
+  {
+    "Title": "Introduction to Logic",
+    "VideoLengthSeconds": 48,
+    "UniqueId": "1739753175575x247465438412800000"
+  },
+  {
+    "Title": "Demonstration of Logic",
+    "VideoLengthSeconds": 140,
+    "UniqueId": "1739753226344x167559901704093700"
+  },
+  {
+    "Title": "If Statements",
+    "VideoLengthSeconds": 281,
+    "UniqueId": "1739753248054x577717379929210900"
+  },
+  {
+    "Title": "And / Or Statements",
+    "VideoLengthSeconds": 170,
+    "UniqueId": "1739753275104x687587029226881000"
+  },
+  {
+    "Title": "Else and Elif Statements",
+    "VideoLengthSeconds": 249,
+    "UniqueId": "1739753302119x231068343382573060"
+  },
+  {
+    "Title": "Boundaries",
+    "VideoLengthSeconds": 298,
+    "UniqueId": "1739753317265x870660031441797100"
+  },
+  {
+    "Title": "Gravity",
+    "VideoLengthSeconds": 281,
+    "UniqueId": "1739753358067x984413190786908200"
+  },
+  {
+    "Title": "Collision",
+    "VideoLengthSeconds": 375,
+    "UniqueId": "1739753382450x566763415008706560"
+  },
+  {
+    "Title": "STEM Innovation Opportunities",
+    "VideoLengthSeconds": 30,
+    "UniqueId": "1739753408132x126473972829650940"
+  },
+  {
+    "Title": "Module 4 Introduction",
+    "VideoLengthSeconds": 69,
+    "UniqueId": "1739753441144x815681736141176800"
+  },
+  {
+    "Title": "Introduction to Functions",
+    "VideoLengthSeconds": 220,
+    "UniqueId": "1739753467169x917309021965779000"
+  },
+  {
+    "Title": "Functions and Arguments",
+    "VideoLengthSeconds": 535,
+    "UniqueId": "1739753492749x648026866859376600"
+  },
+  {
+    "Title": "Function Returns",
+    "VideoLengthSeconds": 346,
+    "UniqueId": "1739753515474x177918807216488450"
+  },
+  {
+    "Title": "Randomizing Locations in Your Game",
+    "VideoLengthSeconds": 372,
+    "UniqueId": "1739753549359x331686855814676500"
+  },
+  {
+    "Title": "Simplifying Code with Functions",
+    "VideoLengthSeconds": 346,
+    "UniqueId": "1739753571706x757818343809876000"
+  },
+  {
+    "Title": "Electromagnetic Warfare Specialists",
+    "VideoLengthSeconds": 30,
+    "UniqueId": "1739753596132x916342008970215400"
+  },
+  {
+    "Title": "Module 5 Introduction",
+    "VideoLengthSeconds": 46,
+    "UniqueId": "1739753644139x427332254636703740"
+  },
+  {
+    "Title": "Code Walkthrough",
+    "VideoLengthSeconds": 246,
+    "UniqueId": "1739753674166x271018769281450000"
+  },
+  {
+    "Title": "Drawing Characters",
+    "VideoLengthSeconds": 290,
+    "UniqueId": "1739753698439x414362255992815600"
+  },
+  {
+    "Title": "Animating Characters",
+    "VideoLengthSeconds": 110,
+    "UniqueId": "1739753717878x525299383778934800"
+  },
+  {
+    "Title": "Drawing Backgrounds",
+    "VideoLengthSeconds": 272,
+    "UniqueId": "1739753738349x571231031915708400"
+  },
+  {
+    "Title": "Keyboard Controls",
+    "VideoLengthSeconds": 365,
+    "UniqueId": "1739753760187x672968774464831500"
+  },
+  {
+    "Title": "Keyboard and Mouse",
+    "VideoLengthSeconds": 95,
+    "UniqueId": "1739753787853x152841289196634100"
+  },
+  {
+    "Title": "Introduction to Lists",
+    "VideoLengthSeconds": 412,
+    "UniqueId": "1739753804261x982922559425347600"
+  },
+  {
+    "Title": "Introduction to Loops",
+    "VideoLengthSeconds": 327,
+    "UniqueId": "1739753824308x133457868947456000"
+  },
+  {
+    "Title": "Adding Obstacles",
+    "VideoLengthSeconds": 463,
+    "UniqueId": "1739753855530x159222676655964160"
+  },
+  {
+    "Title": "Completing the Game",
+    "VideoLengthSeconds": 679,
+    "UniqueId": "1739753871534x536398059671912450"
+  },
+  {
+    "Title": "Additions to the Game",
+    "VideoLengthSeconds": 437,
+    "UniqueId": "1739753903006x891546049663729700"
+  },
+  {
+    "Title": "Introduction to Objects Module",
+    "VideoLengthSeconds": 231,
+    "UniqueId": "1739812904347x762455390230675500"
+  },
+  {
+    "Title": "The Purpose of Objects",
+    "VideoLengthSeconds": 124,
+    "UniqueId": "1739812931591x661680165081579500"
+  },
+  {
+    "Title": "Creating Your First Object",
+    "VideoLengthSeconds": 326,
+    "UniqueId": "1739812975809x443330234121715700"
+  },
+  {
+    "Title": "Functions on Objects",
+    "VideoLengthSeconds": 495,
+    "UniqueId": "1739812991744x580784282123108400"
+  },
+  {
+    "Title": "Object Constructors",
+    "VideoLengthSeconds": 253,
+    "UniqueId": "1739813009710x349617312534626300"
+  },
+  {
+    "Title": "Building In-game Objects",
+    "VideoLengthSeconds": 592,
+    "UniqueId": "1739813027319x169174609613815800"
+  },
+  {
+    "Title": "Adding Random Movement",
+    "VideoLengthSeconds": 260,
+    "UniqueId": "1739813043280x590206431957614600"
+  },
+  {
+    "Title": "Static Types",
+    "VideoLengthSeconds": 428,
+    "UniqueId": "1739813061301x742786319970730000"
+  },
+  {
+    "Title": "Bouncing Rectangles and Simple Physics",
+    "VideoLengthSeconds": 631,
+    "UniqueId": "1739813084627x352679495284555800"
+  },
+  {
+    "Title": "Creating Projectiles",
+    "VideoLengthSeconds": 444,
+    "UniqueId": "1739813103479x517744351792857100"
+  },
+  {
+    "Title": "Adding Projectiles with Space Bar",
+    "VideoLengthSeconds": 166,
+    "UniqueId": "1739813123203x725818410983227400"
+  },
+  {
+    "Title": "Collisions with Projectiles",
+    "VideoLengthSeconds": 279,
+    "UniqueId": "1739813139857x335282108692955140"
+  },
+  {
+    "Title": "Adding the Starship",
+    "VideoLengthSeconds": 500,
+    "UniqueId": "1739813158327x459573648810573800"
+  },
+  {
+    "Title": "Shooting from the Starship",
+    "VideoLengthSeconds": 184,
+    "UniqueId": "1739813183662x148684294347816960"
+  },
+  {
+    "Title": "Introduction to Module 7",
+    "VideoLengthSeconds": 47,
+    "UniqueId": "1739813227043x517274632361607200"
+  },
+  {
+    "Title": "Introduction to Pressed Keys",
+    "VideoLengthSeconds": 60,
+    "UniqueId": "1739813249340x765698321087725600"
+  },
+  {
+    "Title": "Dictionaries in Python",
+    "VideoLengthSeconds": 343,
+    "UniqueId": "1739813265940x438133042053120000"
+  },
+  {
+    "Title": "Turning the Character",
+    "VideoLengthSeconds": 538,
+    "UniqueId": "1739813283218x807834397201662000"
+  },
+  {
+    "Title": "Firing Projectiles",
+    "VideoLengthSeconds": 641,
+    "UniqueId": "1739813305014x763538868559675400"
+  },
+  {
+    "Title": "Flying at Angles",
+    "VideoLengthSeconds": 495,
+    "UniqueId": "1739813319021x112451369368813570"
+  },
+  {
+    "Title": "Reorganizing Your Code",
+    "VideoLengthSeconds": 401,
+    "UniqueId": "1739813334223x285121396721057800"
+  },
+  {
+    "Title": "Start and End Screens",
+    "VideoLengthSeconds": 438,
+    "UniqueId": "1739813361332x625987769617350700"
+  },
+  {
+    "Title": "Polishing",
+    "VideoLengthSeconds": 597,
+    "UniqueId": "1739813386252x881000266595565600"
+  },
+  {
+    "Title": "Introduction to Module 8",
+    "VideoLengthSeconds": 102,
+    "UniqueId": "1739813421624x256129063589773300"
+  },
+  {
+    "Title": "Downloading Python",
+    "VideoLengthSeconds": 171,
+    "UniqueId": "1739813446535x427365925047762940"
+  },
+  {
+    "Title": "Download Your Code",
+    "VideoLengthSeconds": 187,
+    "UniqueId": "1739813470711x160793901741637630"
+  },
+  {
+    "Title": "Running Your Code Locally",
+    "VideoLengthSeconds": 221,
+    "UniqueId": "1739813492388x205241130442555400"
+  },
+  {
+    "Title": "Setting Up a Virtual Environment",
+    "VideoLengthSeconds": 65,
+    "UniqueId": "1739813512109x828304954232143900"
+  },
+  {
+    "Title": "Saving Files",
+    "VideoLengthSeconds": 58,
+    "UniqueId": "1739813536767x393466893957595140"
+  },
+  {
+    "Title": "Adding Sound Effects",
+    "VideoLengthSeconds": 308,
+    "UniqueId": "1739813572103x419957286599393300"
+  },
+  {
+    "Title": "Adding Background Music",
+    "VideoLengthSeconds": 284,
+    "UniqueId": "1739813607966x420909682854985700"
+  },
+  {
+    "Title": "Learning More From the Docs",
+    "VideoLengthSeconds": 487,
+    "UniqueId": "1739813627954x293105134530723840"
+  },
+  {
+    "Title": "Geospatial Intelligence Imagery Analysts",
+    "VideoLengthSeconds": 30,
+    "UniqueId": "1739813657824x262042311529857020"
+  },
+  {
+    "Title": "Sharing Code via Replit",
+    "VideoLengthSeconds": 189,
+    "UniqueId": "1739813684937x767972787568508900"
+  },
+  {
+    "Title": "Sharing Your Project Files",
+    "VideoLengthSeconds": 177,
+    "UniqueId": "1739813715034x194704355912318980"
+  },
+  {
+    "Title": "Share Your Playable Game",
+    "VideoLengthSeconds": 451,
+    "UniqueId": "1739813736317x665894005518106600"
+  },
+  {
+    "Title": "",
+    "VideoLengthSeconds": "",
+    "UniqueId": "1739813753291x213196914727583740"
+  }
+]

@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "generate-users": "node src/users"
+    "generate-users": "node src/users",
+    "generate-documents": "node src/documents",
+    "generate-views": "node src/views"
   },
   "author": "",
   "license": "ISC",
