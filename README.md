@@ -9,9 +9,10 @@ Using the blank application with dummy data provided to you by Skillquest and yo
 1. A search interface page which generates a list of users for which data will be displayed
 
 - Allows a user to search for users by:
-  - Which courses they have started (they have at least one LessonViewHistory)
   - User's email
   - User's total watch time
+  - Which courses they have started (they have at least one LessonViewHistory)
+  - How far they have progressed through the course (as a percentage of total length)
 - Saves the search parameters to the url so that a link can be generated to to search criteria
 - Contains a button to view the data for the selected users
 
@@ -27,6 +28,8 @@ Using the blank application with dummy data provided to you by Skillquest and yo
   - Course
   - Total watch time
 - Includes any further information or views that you think will set your project apart amongst the other participants in this project
+
+The demo app is yours to modify in any way that you feel puts your best foot forward. With any questions, please reach out to the Skillquest team.
 
 ## Demo App Setup
 
