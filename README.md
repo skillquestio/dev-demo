@@ -1,6 +1,6 @@
 # Skillquest Demo Project
 
-This project is designed to show off your Bubble.io talents for a potential role as an application developer at Skillquest, where we teach technical skills using video games. The intent of the project was covered in the job post, and the setup and requirements are covered here.
+This project is designed to show off your Bubble.io talents for a potential role as an application developer at Skillquest, where we teach technical skills using video games. The intent of the project was covered in [the job post](/job-post.md), and the setup and requirements are covered here.
 
 ## Requirements
 
