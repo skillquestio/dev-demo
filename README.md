@@ -31,6 +31,8 @@ Using the blank application with dummy data provided to you by Skillquest and yo
 
 The demo app is yours to modify in any way that you feel puts your best foot forward. With any questions, please reach out to the Skillquest team.
 
+You're encouraged to show off what you can do, if you'd like to make further adjustments (e.g. accounts, other pages, animations, etc...).
+
 ## Demo App Setup
 
 First, we will set up the Bubble application. It will come with data types and demo data, which you may also expand upon using our demo data scripts if you see fit.
